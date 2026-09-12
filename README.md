@@ -4,7 +4,7 @@
 
 **Макрос-ассистент для Invoker'а в Dota 2**
 
-[![Version](https://img.shields.io/badge/version-1.0.4-orange?style=for-the-badge)](https://github.com/lolsosunchik/Invoker-Macro-Pro/releases)
+[![Version](https://img.shields.io/badge/version-1.0.5-orange?style=for-the-badge)](https://github.com/lolsosunchik/Invoker-Macro-Pro/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows-blue?style=for-the-badge)](https://github.com/lolsosunchik/Invoker-Macro-Pro/releases)
 [![Status](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)](https://github.com/lolsosunchik/Invoker-Macro-Pro/releases)
 

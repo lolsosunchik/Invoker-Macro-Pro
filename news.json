@@ -4,14 +4,14 @@
         {
             "date": "2026-09-15",
             "title": "⚡ IMP v1.0.4 — стабильный релиз",
-            "body": "22222",
+            "body": "Привет ебаный свет",
             "important": true
         },
         {
             "date": "2026-09-15",
             "title": "🔧 В разработке",
             "body": "22222",
-            "important": false
+            "important": true
         }
     ]
 }

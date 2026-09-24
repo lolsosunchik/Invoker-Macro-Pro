@@ -7,12 +7,13 @@
 [![Status](https://img.shields.io/badge/status-active-4CAF50?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/lolsosunchik/Invoker-Macro-Pro/releases)
 [![Downloads](https://img.shields.io/github/downloads/lolsosunchik/Invoker-Macro-Pro/total?style=for-the-badge&color=orange&logo=github)](https://github.com/lolsosunchik/Invoker-Macro-Pro/releases)
 [![Stars](https://img.shields.io/github/stars/lolsosunchik/Invoker-Macro-Pro?style=for-the-badge&color=yellow&logo=github)](https://github.com/lolsosunchik/Invoker-Macro-Pro/stargazers)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xTQnwnh2jG)
 
 **⚡ Быстрый каст сфер и способностей одной клавишей · Комбо-цепочки · Оверлей поверх игры**
 
 *Разработал [GulitarNP](https://github.com/lolsosunchik) для сообщества Dota 2*
 
-[🚀 Скачать](https://github.com/lolsosunchik/Invoker-Macro-Pro/releases) · [🔑 Получить ключ](https://github.com/lolsosunchik/Invoker-Macro-Pro/issues) · [🐛 Багрепорт](https://github.com/lolsosunchik/Invoker-Macro-Pro/issues) · [💡 Идея](https://github.com/lolsosunchik/Invoker-Macro-Pro/issues)
+[🚀 Скачать](https://github.com/lolsosunchik/Invoker-Macro-Pro/releases) · [🔑 Получить ключ](https://discord.gg/xTQnwnh2jG) · [💬 Discord](https://discord.gg/xTQnwnh2jG)
 
 </div>
 
@@ -160,16 +161,23 @@
 
 Ключ нужен для защиты от пиратства, но **выдаётся всем желающим бесплатно**.
 
+### 🔑 Получить ключ можно только в Discord
+
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xTQnwnh2jG)
+
+**👉 [discord.gg/xTQnwnh2jG](https://discord.gg/xTQnwnh2jG)**
+
 </div>
 
 ### Пошагово:
 
 | # | Шаг | Что делать |
 |---|-----|-----------|
-| 1️⃣ | Открой **[Issues](https://github.com/lolsosunchik/Invoker-Macro-Pro/issues)** | Нажми **New issue** |
-| 2️⃣ | Напиши: | «Хочу получить ключ активации. Играю на Invoker'е, хочу попробовать программу» |
-| 3️⃣ | Отправь | Автор выдаст ключ в течение **1-2 дней** |
-| 4️⃣ | Активируй | Введи ключ в окне активации при первом запуске |
+| 1️⃣ | Зайди в **[Discord-сервер](https://discord.gg/xTQnwnh2jG)** | Прими правила |
+| 2️⃣ | Перейди в канал **#получить-ключ** | Найди сообщение с реакцией 🎁 |
+| 3️⃣ | Поставь реакцию 🎁 | Бот создаст твой приватный канал |
+| 4️⃣ | Скопируй ключ | Канал удалится через 60 сек — **не зевай** |
+| 5️⃣ | Активируй | Введи ключ в окне активации при первом запуске |
 
 ### Типы ключей:
 
@@ -179,7 +187,9 @@
 | 🎫 **Продлённый** | 90 дней | **Бесплатно** | Активная игра |
 | 🎫 **Годовой** | 365 дней | **Бесплатно** | Постоянно играешь |
 
-> ⚠️ **Ключ привязан к одному ПК.** При смене железа — напиши в Issues для перевыпуска.
+> ⚠️ **Ключ привязан к одному ПК.** При смене железа — напиши в Discord для перевыпуска.
+>
+> 🔄 **Продление ключа** — командой `/продлить` в Discord.
 
 ---
 
@@ -202,8 +212,8 @@
 1. **Скачай** ZIP со [страницы релизов](https://github.com/lolsosunchik/Invoker-Macro-Pro/releases)
 2. **Распакуй** в удобную папку (`C:\IMP\`)
 3. **Запусти** `IMP.exe` двойным кликом
-4. **Введи ключ** при первом запуске
-5. **Играй**
+4. **Получи ключ** в [Discord](https://discord.gg/xTQnwnh2jG)
+5. **Введи ключ** и играй
 
 </td>
 <td width="40%" valign="top">
@@ -267,17 +277,19 @@
 ---
 
 ## 🎮 Быстрый старт
-1️⃣ Открой вкладку "Способности"
+1️⃣ Зайди в Discord → получи ключ
 ↓
-2️⃣ Кликни на слот БИНД → нажми клавишу (например F)
+2️⃣ Скачай IMP со страницы релизов
 ↓
-3️⃣ Проверь колонку "КЛАВИША DOTA" (D или F из игры)
+3️⃣ Запусти IMP.exe → введи ключ
 ↓
-4️⃣ Настройки → включи "АВТОЮЗ ОДИНОЧНЫХ"
+4️⃣ Вкладка "Способности" → назначь бинды
 ↓
-5️⃣ Запусти Dota → встань на Invoker'а
+5️⃣ Включи "АВТОЮЗ ОДИНОЧНЫХ" в Настройках
 ↓
-6️⃣ Нажми F → каст сработал ⚡
+6️⃣ Запусти Dota → встань на Invoker'а
+↓
+7️⃣ Нажми бинд → каст сработал ⚡
 
 text
 
@@ -315,7 +327,7 @@ text
 - **Привязка:** ключ не активирован на другом ПК
 - **Опечатки:** проверь руками
 
-**Всё ок?** → Пиши в [Issues](https://github.com/lolsosunchik/Invoker-Macro-Pro/issues)
+**Всё ок?** → Пиши в [Discord](https://discord.gg/xTQnwnh2jG), поможем
 
 </details>
 
@@ -344,11 +356,24 @@ text
 
 <br>
 
-Напиши в [Issues](https://github.com/lolsosunchik/Invoker-Macro-Pro/issues) с указанием:
-- Твоего ключа
-- Причины смены
+Напиши в [Discord](https://discord.gg/xTQnwnh2jG) в канал **#вопросы**:
+- Твой ключ
+- Причина смены ПК
 
-Автор выдаст новый ключ.
+Администрация выдаст новый ключ.
+
+</details>
+
+<details>
+<summary><b>🔄 Как продлить ключ?</b></summary>
+
+<br>
+
+1. Зайди в [Discord](https://discord.gg/xTQnwnh2jG)
+2. Напиши команду `/продлить`
+3. Ключ продлится на **3 дня**
+
+**Важно:** ключ должен быть хотя бы раз активирован в программе.
 
 </details>
 
@@ -409,7 +434,7 @@ text
 
 - ⭐ **Поставь звезду** на GitHub
 - 📢 **Расскажи друзьям** об IMP
-- 🐛 **Сообщай баги** в Issues
+- 🐛 **Сообщай баги** в Discord
 - 💡 **Предлагай идеи** — читаю все
 
 </details>
@@ -516,9 +541,9 @@ text
 </td>
 <td align="center" width="33%">
 
-### 🔑 [Получить ключ](https://github.com/lolsosunchik/Invoker-Macro-Pro/issues)
+### 💬 [Discord](https://discord.gg/xTQnwnh2jG)
 
-Бесплатно
+Получить ключ + поддержка
 
 </td>
 <td align="center" width="33%">
@@ -526,29 +551,6 @@ text
 ### 📋 [История версий](https://github.com/lolsosunchik/Invoker-Macro-Pro/blob/main/CHANGELOG.md)
 
 Все изменения
-
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-### 🔒 [Приватность](https://github.com/lolsosunchik/Invoker-Macro-Pro/blob/main/PRIVACY.md)
-
-Политика
-
-</td>
-<td align="center" width="33%">
-
-### 🐛 [Багрепорт](https://github.com/lolsosunchik/Invoker-Macro-Pro/issues)
-
-Сообщить о проблеме
-
-</td>
-<td align="center" width="33%">
-
-### 💡 [Идея](https://github.com/lolsosunchik/Invoker-Macro-Pro/issues)
-
-Предложить
 
 </td>
 </tr>

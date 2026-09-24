@@ -1,0 +1,69 @@
+name: Discord Release Announce
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  announce:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send release to Discord
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const webhook = process.env.DISCORD_WEBHOOK;
+            if (!webhook) {
+              core.setFailed('DISCORD_WEBHOOK не задан');
+              return;
+            }
+
+            const release = context.payload.release;
+            const tag = release.tag_name || 'v0.0.0';
+            const name = release.name || `IMP ${tag}`;
+            const body = (release.body || 'Без описания').slice(0, 4000);
+            const url = release.html_url;
+
+            const payload = {
+              username: "IMP — Invoker Macro Pro",
+              embeds: [
+                {
+                  title: `🚀 Новый релиз: ${name}`,
+                  description: body,
+                  url: url,
+                  color: 0xff8030,
+                  fields: [
+                    {
+                      name: "📦 Версия",
+                      value: `\`${tag}\``,
+                      inline: true
+                    },
+                    {
+                      name: "📥 Скачать",
+                      value: `[GitHub Releases](${url})`,
+                      inline: true
+                    }
+                  ],
+                  footer: {
+                    text: "IMP — Invoker Macro Pro · Авто-анонс"
+                  },
+                  timestamp: new Date().toISOString()
+                }
+              ]
+            };
+
+            const fetch = (await import('node-fetch')).default;
+            const res = await fetch(webhook, {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify(payload)
+            });
+
+            if (!res.ok) {
+              core.setFailed(`Discord webhook failed: ${res.status}`);
+              return;
+            }
+
+            console.log('✅ Релиз отправлен в Discord');
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}

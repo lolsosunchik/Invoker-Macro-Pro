@@ -52,7 +52,6 @@ jobs:
               ]
             };
 
-            const fetch = (await import('node-fetch')).default;
             const res = await fetch(webhook, {
               method: 'POST',
               headers: { 'Content-Type': 'application/json' },

@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=IMP%20—%20Invoker%20Macro%20Pro&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Макрос-ассистент%20для%20Invoker'а%20в%20Dota%202&descAlignY=58&descSize=16" width="100%"/>
 
-[![Version](https://img.shields.io/badge/version-1.0.6-FF6B6B?style=for-the-badge&logo=semanticrelease&logoColor=white)](https://github.com/lolsosunchik/Invoker-Macro-Pro/releases)
+[![Version](https://img.shields.io/badge/version-1.0.7-FF6B6B?style=for-the-badge&logo=semanticrelease&logoColor=white)](https://github.com/lolsosunchik/Invoker-Macro-Pro/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows_10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/lolsosunchik/Invoker-Macro-Pro/releases)
 [![Status](https://img.shields.io/badge/status-active-4CAF50?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/lolsosunchik/Invoker-Macro-Pro/releases)
 [![Downloads](https://img.shields.io/github/downloads/lolsosunchik/Invoker-Macro-Pro/total?style=for-the-badge&color=orange&logo=github)](https://github.com/lolsosunchik/Invoker-Macro-Pro/releases)
@@ -18,31 +18,31 @@
 
 ---
 
-## 🔥 Что нового в v1.0.6
+## 🔥 Что нового в v1.0.7
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🍞 Toast-уведомления
-Красивые всплывашки справа сверху с иконками, прогресс-баром и плавной анимацией. Уведомляют о сохранении конфига, новых новостях, обновлениях и ошибках.
+### 🎬 Редактор комбо
+Настрой последовательность способностей и задержки прямо в программе. Красивое модальное окно, плавные анимации, понятное управление.
 
-### ❄️ Зимняя тема
-4-я тема оформления с **падающими снежинками**, которые разбиваются об нижнюю границу окна. Морозный иней по краям, ледяные акценты.
+### 🔴 Запись комбо
+Сыграй комбо один раз в Dota → программа распознает его → сохранит как готовое. Не надо вручную прописывать шаги.
 
-### 🧪 Armlet HP Reset *(BETA)*
-Мгновенное выкл/вкл Armlet для Huskar / CK / WK / Lifestealer. Одна клавиша — +5-15 HP за нажатие.
+### 📊 Статистика запусков
+Счётчик запусков программы прямо в разделе «Инфо». Показывает сколько раз IMP был открыт по всему миру.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 Запись комбо
-Играешь в Dota → программа запоминает последовательность → сохраняет как готовое комбо. Не надо вручную прописывать шаги.
+### 🎨 Полный редизайн UI
+Новая структура вкладок, плавные анимации, обновлённые иконки, toast-уведомления с прогресс-баром. Всё стало приятнее.
 
-### 🎨 11 визуальных эффектов
-Bloom, text shimmer, border flow, **3D tilt карточек**, magnetic buttons, shockwave, cursor trail, particle burst, liquid glass, aurora, parallax.
+### 🔔 Toast-уведомления
+Всплывашки справа сверху с иконками и плавным появлением. Сообщают о сохранении, ошибках, новостях, обновлениях.
 
-### 🍞 Кастомное меню в трее
+### 🍞 Кастомный трей
 Клик по иконке в трее → красивое меню в стиле IMP. Без стандартного серого Windows-меню.
 
 </td>
@@ -65,7 +65,7 @@ Bloom, text shimmer, border flow, **3D tilt карточек**, magnetic buttons
 </td>
 <td align="center" width="25%">
 <h3>🎮 Стримерам</h3>
-Оверлей с биндами поверх игры. Discord RPC. Режим стримера (скоро). Всё для эфира.
+Оверлей с биндами поверх игры. Discord RPC. Всё для эфира.
 </td>
 <td align="center" width="25%">
 <h3>♿ Доступность</h3>
@@ -73,32 +73,6 @@ Bloom, text shimmer, border flow, **3D tilt карточек**, magnetic buttons
 </td>
 </tr>
 </table>
-
----
-
-## 📸 Скриншоты
-
-> ⚠️ **Раздел в разработке.** Скриншоты появятся в ближайшее время.
->
-> Пока можешь посмотреть на [странице релизов](https://github.com/lolsosunchik/Invoker-Macro-Pro/releases).
-
-<!--
-<div align="center">
-
-### Главное окно
-![Главное окно](docs/screenshot-1.png)
-
-### Комбо-редактор с записью
-![Комбо](docs/screenshot-2.png)
-
-### Зимняя тема со снежинками
-![Зимняя тема](docs/screenshot-3.png)
-
-### Оверлей поверх Dota 2
-![Оверлей](docs/screenshot-4.png)
-
-</div>
--->
 
 ---
 
@@ -122,6 +96,7 @@ Bloom, text shimmer, border flow, **3D tilt карточек**, magnetic buttons
 - **Кастомные задержки** между шагами
 - **Хоткеи комбо** — `F1`, `F2`, `F3`
 - **🎬 Запись кастов** — сыграл → сохранил → готовое комбо
+- **Редактор** — настрой прямо в программе
 
 ### 🖥 Оверлей
 
@@ -192,7 +167,7 @@ Bloom, text shimmer, border flow, **3D tilt карточек**, magnetic buttons
 | # | Шаг | Что делать |
 |---|-----|-----------|
 | 1️⃣ | Открой **[Issues](https://github.com/lolsosunchik/Invoker-Macro-Pro/issues)** | Нажми **New issue** |
-| 2️⃣ | Напиши: | «Хочу получить ключ активации. Тир на инвокере: (рофл). Цель: играю на Invoker'е, хочу попробовать программу» |
+| 2️⃣ | Напиши: | «Хочу получить ключ активации. Играю на Invoker'е, хочу попробовать программу» |
 | 3️⃣ | Отправь | Автор выдаст ключ в течение **1-2 дней** |
 | 4️⃣ | Активируй | Введи ключ в окне активации при первом запуске |
 
@@ -204,7 +179,7 @@ Bloom, text shimmer, border flow, **3D tilt карточек**, magnetic buttons
 | 🎫 **Продлённый** | 90 дней | **Бесплатно** | Активная игра |
 | 🎫 **Годовой** | 365 дней | **Бесплатно** | Постоянно играешь |
 
-> ⚠️ **Ключ привязан к HWID твоего ПК.** При смене железа — напиши в Issues для перевыпуска.
+> ⚠️ **Ключ привязан к одному ПК.** При смене железа — напиши в Issues для перевыпуска.
 
 ---
 
@@ -221,7 +196,6 @@ Bloom, text shimmer, border flow, **3D tilt карточек**, magnetic buttons
 | **ОС** | Windows 10 / 11 (64-bit) |
 | **Место** | ~150 МБ |
 | **Интернет** | для активации и обновлений |
-| **WebView2** | уже есть в Windows |
 
 ### Быстрая установка
 
@@ -277,18 +251,14 @@ Bloom, text shimmer, border flow, **3D tilt карточек**, magnetic buttons
 
 <kbd>Space</kbd> — Armlet swap
 
-<kbd>Ctrl+K</kbd> — *скоро: Command Palette*
-
 </td>
 <td width="33%" align="center">
 
 ### 🖥 В приложении
 
-<kbd>F12</kbd> — DevTools *(debug режим)*
+Клик по иконке в трее — быстрое меню
 
-<kbd>Ctrl+1..6</kbd> — *скоро: вкладки*
-
-<kbd>Ctrl+S</kbd> — *скоро: сохранить*
+Кнопка «Пауза» в шапке
 
 </td>
 </tr>
@@ -326,11 +296,10 @@ text
 
 <br>
 
-**Три причины в порядке вероятности:**
+**Две причины в порядке вероятности:**
 
 1. **Нужны админ-права** — ПКМ → **Запуск от имени администратора**
-2. **Нет WebView2 Runtime** — [скачай и установи](https://go.microsoft.com/fwlink/p/?LinkId=2124703)
-3. **Антивирус блокирует** — добавь `IMP.exe` в исключения
+2. **Антивирус блокирует** — добавь `IMP.exe` в исключения
 
 </details>
 
@@ -343,7 +312,7 @@ text
 
 - **Формат:** `IMP-XXXX-XXXX` (4 символа — 4 символа)
 - **Срок:** ключ не истёк
-- **HWID:** ключ не привязан к другому ПК
+- **Привязка:** ключ не активирован на другом ПК
 - **Опечатки:** проверь руками
 
 **Всё ок?** → Пиши в [Issues](https://github.com/lolsosunchik/Invoker-Macro-Pro/issues)
@@ -355,7 +324,7 @@ text
 
 <br>
 
-Удали файл: 
+Удали файл:
 %LOCALAPPDATA%\IMP\license.json
 
 text
@@ -465,6 +434,7 @@ text
 - [x] Toast-уведомления
 - [x] 🎬 Запись комбо
 - [x] 🧪 Armlet HP Reset
+- [x] 📊 Статистика запусков
 
 </td>
 <td width="50%" valign="top">
@@ -480,7 +450,6 @@ text
 - [ ] 📈 Статистика кастов
 - [ ] 🌍 Больше языков
 - [ ] 🎨 Иконки способностей SVG
-- [ ] 🔧 AutoHotkey-экспорт
 
 </td>
 </tr>
@@ -488,7 +457,7 @@ text
 
 ---
 
-## 📊 Аналитика и приватность
+## 📊 Приватность
 
 <details>
 <summary><b>Что отправляется и что нет</b></summary>
@@ -518,8 +487,6 @@ text
 - **АНОНИМНАЯ СТАТИСТИКА** — отключить
 - **DISCORD RICH PRESENCE** — отключить
 
-📖 Полная политика: [PRIVACY.md](./PRIVACY.md)
-
 </details>
 
 ---
@@ -533,17 +500,6 @@ text
 | **Антивирусы** | Могут ложно срабатывать. Добавь в исключения. |
 | **BETA-функции** | Комбо и Armlet — тестируй в Demo Hero. |
 | **Первый запуск** | 3-5 секунд — распаковывает ресурсы. |
-
----
-
-## 📂 Что внутри
-IMP/
-├── 📄 README.txt ← краткая инструкция
-└── ⚡ IMP.exe ← запускай это
-
-text
-
-> ℹ️ **Исходный код хранится в закрытом репозитории.** Здесь только релизы, документация и файл новостей.
 
 ---
 

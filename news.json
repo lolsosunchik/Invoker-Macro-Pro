@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-09-22",
+    "last_update": "2026-09-28",
     "items": [
+        {
+            "date": "2026-09-28",
+            "type": "update",
+            "title": "IMP v1.0.8 — Звуки интерфейса",
+            "body": "Добавлены звуки клика и уведомлений.",
+            "important": true
+        },
         {
             "date": "2026-09-22",
             "type": "update",

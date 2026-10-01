@@ -1,176 +1,313 @@
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- HEADER — анимированная волна + логотип             -->
+<!-- ═══════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=IMP%20—%20Invoker%20Macro%20Pro&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Макрос-ассистент%20для%20Invoker'а%20в%20Dota%202&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:8B5CF6,100:3B82F6&height=200&section=header&text=IMP&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Invoker%20Macro%20Pro&descAlignY=62&descSize=22&descColor=E0E0E0" width="100%"/>
 
-[![Version](https://img.shields.io/badge/version-1.0.9-FF6B6B?style=for-the-badge)](https://github.com/lolsosunchik/Invoker-Macro-Pro/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows_10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/lolsosunchik/Invoker-Macro-Pro/releases)
-[![Status](https://img.shields.io/badge/status-active-4CAF50?style=for-the-badge)](https://github.com/lolsosunchik/Invoker-Macro-Pro/releases)
-[![Downloads](https://img.shields.io/github/downloads/lolsosunchik/Invoker-Macro-Pro/total?style=for-the-badge&color=orange&logo=github)](https://github.com/lolsosunchik/Invoker-Macro-Pro/releases)
-[![Stars](https://img.shields.io/github/stars/lolsosunchik/Invoker-Macro-Pro?style=for-the-badge&color=yellow&logo=github)](https://github.com/lolsosunchik/Invoker-Macro-Pro/stargazers)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xTQnwnh2jG)
+<br>
 
-**⚡ Быстрый каст сфер и способностей одной клавишей · Комбо-цепочки · Оверлей поверх игры**
+<!-- ═══ ОСНОВНЫЕ БЕЙДЖИ ═══ -->
 
-*Разработал [GulitarNP](https://github.com/lolsosunchik) для сообщества Dota 2*
+<p>
+  <img src="https://img.shields.io/badge/⚡_ВЕРСИЯ-1.0.9-FF6B6B?style=for-the-badge&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/🖥_ПЛАТФОРМА-Windows_10/11-3B82F6?style=for-the-badge&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/💰_ЦЕНА-Бесплатно-4CAF50?style=for-the-badge&labelColor=1a1a1a"/>
+</p>
 
-[🚀 Скачать](https://github.com/lolsosunchik/Invoker-Macro-Pro/releases) · [🔑 Получить ключ](https://discord.gg/xTQnwnh2jG) · [💬 Discord](https://discord.gg/xTQnwnh2jG)
+<p>
+  <img src="https://img.shields.io/github/downloads/lolsosunchik/Invoker-Macro-Pro/total?style=for-the-badge&label=СКАЧАЛИ&color=8B5CF6&labelColor=1a1a1a&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/github/stars/lolsosunchik/Invoker-Macro-Pro?style=for-the-badge&label=ЗВЁЗДЫ&color=FFD700&labelColor=1a1a1a&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/СООБЩЕСТВО-Discord-5865F2?style=for-the-badge&labelColor=1a1a1a&logo=discord&logoColor=white"/>
+</p>
+
+<br>
+
+<!-- ═══ ГЛАВНЫЙ СЛОГАН ═══ -->
+
+<h2>⚡ Быстрый каст сфер одной клавишей</h2>
+<h3>🎬 Комбо-цепочки · 🖥 Оверлей · 💬 Discord-статус</h3>
+
+<br>
+
+<!-- ═══ КНОПКИ ДЕЙСТВИЙ ═══ -->
+
+<a href="https://github.com/lolsosunchik/Invoker-Macro-Pro/releases">
+  <img src="https://img.shields.io/badge/🚀_СКАЧАТЬ_IMP-Скачать_сейчас-FF6B6B?style=for-the-badge&labelColor=1a1a1a" height="45"/>
+</a>
+&nbsp;
+<a href="https://discord.gg/xTQnwnh2jG">
+  <img src="https://img.shields.io/badge/🔑_ПОЛУЧИТЬ_КЛЮЧ-Discord-5865F2?style=for-the-badge&labelColor=1a1a1a&logo=discord&logoColor=white" height="45"/>
+</a>
+
+<br><br>
+
+*Сделано с ❤️ [GulitarNP](https://github.com/lolsosunchik) для сообщества Dota 2*
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════ -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- ЧТО НОВОГО                                        -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div align="center">
 
 ## 🔥 Что нового в v1.0.9
 
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Автоюз для каждой способности
-Теперь можно настроить автоюз D/F отдельно для каждой способности. Cold Snap кастуй сам, а Sun Strike — автоматически.
+<details open>
+<summary><b>🎯 Автоюз для каждой способности</b></summary>
 
-### 🎯 Каст на себя
-Возможность кастовать способность **на себя** одной кнопкой. Идеально для Alacrity, Ghost Walk, Forged Spirit.
+<br>
 
-### 📊 Статистика Invoker'а
-Вкладка со статистикой из реальных матчей:
-- Winrate
-- Последние 10 игр
-- Топ-герои
+Настраивай автоюз **отдельно** для каждой способности. Cold Snap кастуй сам, а Sun Strike — автоматически.
+
+</details>
+
+<details open>
+<summary><b>🎯 Каст на себя одной кнопкой</b></summary>
+
+<br>
+
+Кастуй способность **на себя** через `Alt + D`. Идеально для Alacrity, Ghost Walk, Forged Spirit.
+
+</details>
+
+<details open>
+<summary><b>📊 Статистика Invoker'а</b></summary>
+
+<br>
+
+Полноценная вкладка со статистикой:
+- Winrate на Invoker'е
+- Последние 10 матчей
+- Топ героев по винрейту
 - Рекомендации по билду
 - Counter-пики
 
+</details>
+
 </td>
 <td width="50%" valign="top">
 
-### 🖼 Красивые иконки
-Реальные иконки способностей, героев и предметов из Dota 2. Всё выглядит как в игре.
+<details open>
+<summary><b>🖼 Реальные иконки из Dota 2</b></summary>
 
-### 🌐 Надёжная система ключей
-Новая система активации с защитой от взлома и смены ПК.
+<br>
 
-### 🎮 Discord-сообщество
-Полноценное сообщество с прокачкой уровней, койнами, кланами и ежедневными наградами.
+Иконки способностей, героев и предметов — всё выглядит как в самой игре.
+
+</details>
+
+<details open>
+<summary><b>🌐 Новая система ключей</b></summary>
+
+<br>
+
+Обновлённая защита от взлома и смены ПК. Ключ привязывается к твоему компьютеру.
+
+</details>
+
+<details open>
+<summary><b>🎮 Discord-сообщество 2.0</b></summary>
+
+<br>
+
+Прокачка уровней, IMP-койны, кланы, ежедневные награды, розыгрыши и многое другое.
+
+</details>
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 💡 Для кого эта программа
-
-<table>
-<tr>
-<td align="center" width="25%">
-<h3>🎓 Новичкам</h3>
-Только начинаешь играть на Invoker'е? Программа поможет освоить механику без боли. Одна кнопка — готовый каст.
-</td>
-<td align="center" width="25%">
-<h3>⚔️ Опытным</h3>
-Уже играешь, но хочешь быстрее? Комбо-цепочки и запись кастов сэкономят время реакции.
-</td>
-<td align="center" width="25%">
-<h3>🎮 Стримерам</h3>
-Оверлей с биндами поверх игры. Статус в Discord. Всё для эфира.
-</td>
-<td align="center" width="25%">
-<h3>♿ Доступность</h3>
-Игрокам с ограниченной подвижностью рук — снижает нагрузку на кисть.
-</td>
-</tr>
-</table>
-
----
-
-## ✨ Возможности
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 Каст способностей
-
-- **Каст одной клавишей** — нажал `F` → сферы + Invoke + активация
-- **Автоюз для каждой способности** — свой тумблер
-- **Каст на себя** — одной кнопкой
-- **Умная очередь** — быстрые нажатия не пропадают
-- **Прерывание по Esc** — мгновенная остановка
-- **Реальные иконки** способностей
-
-### 🎬 Комбо-цепочки *BETA*
-
-- **Цепочки способностей** — `Sun Strike → Meteor → Blast`
-- **Свои задержки** между шагами
-- **Хоткеи** — `F1`, `F2`, `F3`
-- **🎬 Запись кастов** — сыграл → сохранил
-- **Редактор** — настрой прямо в программе
-
-### 📊 Статистика
-
-- **Winrate на Invoker'е**
-- **Последние 10 матчей** с KDA и GPM
-- **Топ-5 героев** по винрейту
-- **Рекомендации по билду**
-- **Counter-пики** — против кого хуже
-
-</td>
-<td width="50%" valign="top">
-
-### 🖥 Оверлей
-
-- **Поверх окна игры** — все бинды перед глазами
-- **Прозрачность** — от 40% до 100%
-- **Изменение размера** — растяни за угол
-- **Панель способностей** — все заклинания Invoker'а
-- **Перетаскивание** за header
-
-### 🧪 BETA-функции
-
-- **⚔ Armlet HP Reset** — для Huskar / CK / WK / LS
-- **Настройка времени** ВЫКЛ
-- **До 5 повторов** за одно нажатие
-- **Мгновенный swap** — HP скачет вверх
-
-### 🎨 Интерфейс
-
-- **4 темы** — Тёмная, Светлая, Красная, ❄️ Зимняя
-- **Русский / английский**
-- **3 режима производительности**
-- **Плавные анимации**
-- **Всплывающие уведомления**
-
-### 💬 Статус в Discord
-
-- **«Играет на Invoker'е»**
-- **Счётчик кастов** за сессию
-- **Активное комбо**
-- **AFK-фразы** Invoker'а
-
-### 🖥 Иконка в трее
-
-- **Красивое меню** при клике
-- **Быстрый доступ** ко всем настройкам
-- **Живая статистика**
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎮 Discord-сообщество
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- ДЛЯ КОГО                                          -->
+<!-- ═══════════════════════════════════════════════════ -->
 
 <div align="center">
 
-**IMP — это не просто программа. Это целое сообщество с прокачкой, играми и наградами.**
-
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xTQnwnh2jG)
-
-**👉 [discord.gg/xTQnwnh2jG](https://discord.gg/xTQnwnh2jG)**
+## 💡 Для кого эта программа
 
 </div>
 
-### Что тебя ждёт на сервере
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🎓 Новичкам
+
+Только начинаешь играть на Invoker'е? Программа поможет освоить механику без боли.
+
+</td>
+<td align="center" width="25%">
+
+### ⚔️ Опытным
+
+Уже играешь, но хочешь быстрее? Комбо и запись кастов сэкономят время.
+
+</td>
+<td align="center" width="25%">
+
+### 🎮 Стримерам
+
+Оверлей с биндами поверх игры. Статус в Discord. Всё для эфира.
+
+</td>
+<td align="center" width="25%">
+
+### ♿ Доступность
+
+Игрокам с ограниченной подвижностью рук — снижает нагрузку на кисть.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- ВОЗМОЖНОСТИ                                       -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ✨ Возможности
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎯 Каст способностей</h3>
+
+<table>
+<tr><td>⚡</td><td><b>Каст одной клавишей</b></td></tr>
+<tr><td>🎯</td><td><b>Автоюз для каждой способности</b></td></tr>
+<tr><td>🎯</td><td><b>Каст на себя</b> — одной кнопкой</td></tr>
+<tr><td>🔀</td><td><b>Умная очередь</b> — нажатия не пропадают</td></tr>
+<tr><td>🛑</td><td><b>Прерывание по Esc</b></td></tr>
+<tr><td>🖼</td><td><b>Реальные иконки</b> из Dota 2</td></tr>
+</table>
+
+<h3>🎬 Комбо-цепочки <code>BETA</code></h3>
+
+<table>
+<tr><td>🎬</td><td><b>Цепочки способностей</b> — Sun Strike → Meteor → Blast</td></tr>
+<tr><td>⏱</td><td><b>Свои задержки</b> между шагами</td></tr>
+<tr><td>⌨️</td><td><b>Хоткеи</b> — F1, F2, F3</td></tr>
+<tr><td>🎥</td><td><b>Запись кастов</b> — сыграл → сохранил</td></tr>
+<tr><td>✎</td><td><b>Редактор</b> — настрой прямо в программе</td></tr>
+</table>
+
+<h3>📊 Статистика</h3>
+
+<table>
+<tr><td>📈</td><td><b>Winrate</b> на Invoker'е</td></tr>
+<tr><td>🎮</td><td><b>Последние 10 матчей</b> с KDA</td></tr>
+<tr><td>🏆</td><td><b>Топ-5 героев</b> по винрейту</td></tr>
+<tr><td>💡</td><td><b>Рекомендации по билду</b></td></tr>
+<tr><td>🎯</td><td><b>Counter-пики</b></td></tr>
+</table>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🖥 Оверлей</h3>
+
+<table>
+<tr><td>📌</td><td><b>Поверх окна игры</b></td></tr>
+<tr><td>💧</td><td><b>Прозрачность</b> от 40% до 100%</td></tr>
+<tr><td>📐</td><td><b>Изменение размера</b></td></tr>
+<tr><td>✨</td><td><b>Панель способностей</b></td></tr>
+<tr><td>🖱</td><td><b>Перетаскивание</b> за header</td></tr>
+</table>
+
+<h3>🧪 BETA-функции</h3>
+
+<table>
+<tr><td>⚔</td><td><b>Armlet HP Reset</b> — Huskar / CK / WK / LS</td></tr>
+<tr><td>⏱</td><td><b>Настройка времени</b> ВЫКЛ</td></tr>
+<tr><td>🔁</td><td><b>До 5 повторов</b> за нажатие</td></tr>
+<tr><td>💥</td><td><b>Мгновенный swap</b></td></tr>
+</table>
+
+<h3>🎨 Интерфейс</h3>
+
+<table>
+<tr><td>🌑</td><td><b>4 темы</b> — Тёмная, Светлая, Красная, ❄️ Зимняя</td></tr>
+<tr><td>🌐</td><td><b>Русский / Английский</b></td></tr>
+<tr><td>⚡</td><td><b>3 режима производительности</b></td></tr>
+<tr><td>✨</td><td><b>Плавные анимации</b></td></tr>
+<tr><td>🔔</td><td><b>Уведомления</b> справа</td></tr>
+</table>
+
+<h3>💬 Discord-интеграция</h3>
+
+<table>
+<tr><td>🎮</td><td><b>Статус</b> «Играет на Invoker'е»</td></tr>
+<tr><td>📊</td><td><b>Счётчик кастов</b></td></tr>
+<tr><td>🎬</td><td><b>Активное комбо</b></td></tr>
+<tr><td>😴</td><td><b>AFK-фразы</b> Invoker'а</td></tr>
+<tr><td>🖥</td><td><b>Иконка в трее</b></td></tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- DISCORD СООБЩЕСТВО                                -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🎮 Discord-сообщество
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20&height=3&section=header" width="60%"/>
+
+<br>
+
+**IMP — это не просто программа. Это целое сообщество с прокачкой, играми и наградами.**
+
+<br>
+
+<a href="https://discord.gg/xTQnwnh2jG">
+  <img src="https://img.shields.io/badge/ПРИСОЕДИНИТЬСЯ_К_DISCORD-5865F2?style=for-the-badge&labelColor=1a1a1a&logo=discord&logoColor=white" height="55"/>
+</a>
+
+<br><br>
+
+### 👉 [discord.gg/xTQnwnh2jG](https://discord.gg/xTQnwnh2jG)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20&height=3&section=header" width="60%"/>
+
+</div>
+
+<br>
 
 <table>
 <tr>
@@ -178,175 +315,348 @@
 
 ### 📈 Прокачка
 
-- **XP** за активность в чате
-- **IMP-койны** — внутренняя валюта
-- **Уровни** — чем выше, тем больше плюшек
-- **Достижения** и ачивки
+<img src="https://img.shields.io/badge/XP-8B5CF6?style=flat-square&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/КОЙНЫ-FFD700?style=flat-square&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/УРОВНИ-4CAF50?style=flat-square&labelColor=1a1a1a"/>
+
+<br><br>
+
+- **XP** за активность
+- **IMP-койны** — валюта
+- **Уровни** — плюшки выше
+- **Достижения**
 
 </td>
 <td width="33%" valign="top" align="center">
 
 ### 🔑 Продление ключа
 
-Ключ **бесплатно продлевается** за:
+<img src="https://img.shields.io/badge/БЕСПЛАТНО-4CAF50?style=flat-square&labelColor=1a1a1a"/>
+
+<br><br>
+
+Ключ **бесплатно продлевается**:
 
 - Ежедневный вход
-- Рулетку
+- Рулетка
 - Активность в чате
-- Приглашённых друзей
-- Покупки в магазине
+- Друзья
+- Магазин
 
 </td>
 <td width="33%" valign="top" align="center">
 
 ### 💎 IMP-VIP
 
-**VIP-статус** даёт:
+<img src="https://img.shields.io/badge/VIP-FFD700?style=flat-square&labelColor=1a1a1a"/>
 
-- ×2 койны и часы
-- ×2 опыт
-- Золотую карточку профиля
-- Отдельный VIP-канал
-- Особую роль
+<br><br>
+
+- **×2** койны
+- **×2** часы ключа
+- **×2** опыт
+- Золотая карточка
+- VIP-канал
 
 </td>
 </tr>
 </table>
 
-### 🎰 Что можно делать в Discord
-
-| Команда | Что делает |
-|---------|-----------|
-| `/профиль` | Красивая карточка с твоей статистикой |
-| `/мойключ` | Показать ключ и сколько осталось |
-| `/ежедневно` | Ежедневный бонус — койны + часы ключа |
-| `/рулетка` | Крутить раз в день — от койнов до дней |
-| `/казино` | Испытать удачу — ставка 50/50 |
-| `/слоты` | Три барабана — шанс ×50 |
-| `/магазин` | Магазин за койны |
-| `/реферал` | Твоя ссылка для друзей |
-| `/ачивки` | Достижения |
-| `/топ` | Топ-10 сервера |
-| `/клан` | Создать или вступить в клан |
-| `/промокод` | Активировать бонус-код |
-| `/тикет` | Связаться с поддержкой |
-
-> 🎁 **Регулярные розыгрыши** — дни ключа, койны, VIP-статусы.
-
----
-
-## 🔑 Как получить ключ
+### 🎰 Команды в Discord
 
 <div align="center">
 
-### 💰 Программа полностью бесплатная
+<table>
+<tr>
+<td align="center">
 
-Ключ нужен для защиты от пиратства, но **выдаётся всем желающим бесплатно**.
+**🎮 ПРОФИЛЬ**
 
-### 🔑 Получить ключ можно только в Discord
+`/профиль` · `/мойключ` · `/ачивки`
 
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xTQnwnh2jG)
+</td>
+<td align="center">
 
-**👉 [discord.gg/xTQnwnh2jG](https://discord.gg/xTQnwnh2jG)**
+**💰 ЗАРАБОТОК**
+
+`/ежедневно` · `/рулетка` · `/реферал`
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**🎲 РАЗВЛЕЧЕНИЯ**
+
+`/казино` · `/слоты` · `/розыгрыши`
+
+</td>
+<td align="center">
+
+**🛒 ПОКУПКИ**
+
+`/магазин` · `/купить` · `/промокод`
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**👥 СОЦИАЛЬНОЕ**
+
+`/клан` · `/топ` · `/топ_койнов`
+
+</td>
+<td align="center">
+
+**🆘 ПОМОЩЬ**
+
+`/тикет` · `/вип` · `/старт`
+
+</td>
+</tr>
+</table>
 
 </div>
 
-### Пошагово:
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-| # | Шаг | Что делать |
-|---|-----|-----------|
-| 1️⃣ | Зайди в **[Discord-сервер](https://discord.gg/xTQnwnh2jG)** | Прими правила |
-| 2️⃣ | Перейди в канал **#получить-ключ** | Найди сообщение с реакцией 🎁 |
-| 3️⃣ | Поставь реакцию 🎁 | Бот создаст твой приватный канал |
-| 4️⃣ | Скопируй ключ | Канал удалится через 60 секунд |
-| 5️⃣ | Активируй | Введи ключ в окне активации при первом запуске |
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- ПОЛУЧИТЬ КЛЮЧ                                     -->
+<!-- ═══════════════════════════════════════════════════ -->
 
-### 🔄 Как продлить ключ
+<div align="center">
 
-**Ключ выдаётся на 1 день**, но продлить можно **бесплатно**:
+## 🔑 Как получить ключ
+
+<br>
+
+<img src="https://img.shields.io/badge/💰_ЦЕНА-Бесплатно-4CAF50?style=for-the-badge&labelColor=1a1a1a" height="35"/>
+
+<br><br>
+
+**Программа полностью бесплатная.**<br>
+Ключ нужен только для защиты от пиратства.
+
+<br><br>
+
+<a href="https://discord.gg/xTQnwnh2jG">
+  <img src="https://img.shields.io/badge/🔑_ПОЛУЧИТЬ_КЛЮЧ_В_DISCORD-5865F2?style=for-the-badge&labelColor=1a1a1a&logo=discord&logoColor=white" height="55"/>
+</a>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+### 1️⃣
+
+<img src="https://img.shields.io/badge/ЗАЙДИ-8B5CF6?style=flat-square&labelColor=1a1a1a"/>
+
+<br><br>
+
+в [Discord-сервер](https://discord.gg/xTQnwnh2jG)
+
+Прими правила
+
+</td>
+<td align="center" width="20%">
+
+### 2️⃣
+
+<img src="https://img.shields.io/badge/КАНАЛ-3B82F6?style=flat-square&labelColor=1a1a1a"/>
+
+<br><br>
+
+#получить-ключ
+
+Найди сообщение с 🎁
+
+</td>
+<td align="center" width="20%">
+
+### 3️⃣
+
+<img src="https://img.shields.io/badge/РЕАКЦИЯ-FFD700?style=flat-square&labelColor=1a1a1a"/>
+
+<br><br>
+
+Поставь 🎁
+
+Бот создаст канал
+
+</td>
+<td align="center" width="20%">
+
+### 4️⃣
+
+<img src="https://img.shields.io/badge/КОПИРУЙ-FF6B6B?style=flat-square&labelColor=1a1a1a"/>
+
+<br><br>
+
+Скопируй ключ
+
+60 сек на это
+
+</td>
+<td align="center" width="20%">
+
+### 5️⃣
+
+<img src="https://img.shields.io/badge/ИГРАЙ-4CAF50?style=flat-square&labelColor=1a1a1a"/>
+
+<br><br>
+
+Активируй в IMP
+
+Готово! ⚡
+
+</td>
+</tr>
+</table>
+
+### 🔄 Продление ключа
+
+<div align="center">
+
+**Ключ выдаётся на 1 день, но продлевается <span style="color:#4CAF50">бесплатно</span>:**
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ✅ Бесплатные способы
+<details open>
+<summary><b>✅ Бесплатные способы</b></summary>
+
+<br>
 
 | Способ | Что даёт |
 |--------|----------|
-| `/ежедневно` | +6 / 12 / 24 часа |
-| `/рулетка` | до +5 дней |
-| **Активность в чате** | +12 часов за 100 сообщений |
-| `/реферал` | +1 день за друга |
-| `/промокод` | Бонусы от администрации |
+| 🎁 `/ежедневно` | **+6 / 12 / 24 часа** |
+| 🎰 `/рулетка` | **до +5 дней** |
+| 💬 Активность в чате | **+12 часов** за 100 сообщений |
+| 👥 `/реферал` | **+1 день** за друга |
+| 🎟 `/промокод` | Бонусы от администрации |
+
+</details>
 
 </td>
 <td width="50%" valign="top">
 
-### 💰 Покупка за койны
+<details open>
+<summary><b>💰 Покупка за койны</b></summary>
 
-Койны получаешь бесплатно за:
+<br>
+
+**Койны получаешь бесплатно за:**
+
 - 💬 Сообщения в чате
 - 🎁 Ежедневный вход
 - 🎰 Победы в играх
-- 👥 Приглашённых друзей
+- 👥 Друзей
 - 🏆 Достижения
 
-Тратишь в `/магазин` на **дни ключа**.
+**Тратишь в `/магазин` на дни ключа.**
+
+</details>
 
 </td>
 </tr>
 </table>
 
-> ⚠️ **Ключ привязан к одному ПК.** При смене железа — обратись в Discord.
+> ⚠️ **Ключ привязан к одному ПК.** При смене железа — обратись в Discord через `/тикет`.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- УСТАНОВКА                                         -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div align="center">
 
 ## 🚀 Установка
+
+</div>
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-### Требования
+### 📋 Требования
 
-| Компонент | Значение |
-|-----------|----------|
-| **ОС** | Windows 10 / 11 (64-bit) |
-| **Место** | ~150 МБ |
-| **Интернет** | для активации и обновлений |
+<table>
+<tr><td><b>🖥 ОС</b></td><td>Windows 10 / 11 (64-bit)</td></tr>
+<tr><td><b>💾 Место</b></td><td>~150 МБ</td></tr>
+<tr><td><b>🌐 Интернет</b></td><td>для активации и обновлений</td></tr>
+</table>
 
-### Быстрая установка
+### ⚡ Быстрая установка
+1️⃣ Скачай ZIP со страницы релизов
+↓
+2️⃣ Распакуй в удобную папку (C:\IMP)
+↓
+3️⃣ Запусти IMP.exe двойным кликом
+↓
+4️⃣ Получи ключ в Discord
+↓
+5️⃣ Введи ключ и играй ⚡
 
-1. **Скачай** ZIP со [страницы релизов](https://github.com/lolsosunchik/Invoker-Macro-Pro/releases)
-2. **Распакуй** в удобную папку (`C:\IMP\`)
-3. **Запусти** `IMP.exe` двойным кликом
-4. **Получи ключ** в [Discord](https://discord.gg/xTQnwnh2jG)
-5. **Введи ключ** и играй
+text
 
 </td>
 <td width="40%" valign="top">
 
 ### ⚠️ Важные нюансы
 
-**🛡️ Антивирусы**
+<details open>
+<summary><b>🛡️ Антивирусы</b></summary>
 
-Могут ложно срабатывать на `.exe`. Это нормально для утилит с глобальными клавишами. Добавь в исключения.
+<br>
 
-**🔑 Админ-права**
+Могут ложно срабатывать на `.exe`. Это нормально для утилит с глобальными клавишами. **Добавь в исключения.**
+
+</details>
+
+<details open>
+<summary><b>🔑 Админ-права</b></summary>
+
+<br>
 
 Если бинды не срабатывают — ПКМ → **Запуск от имени администратора**.
 
-**📂 Не из ZIP**
+</details>
 
-Сначала **распакуй**, потом запускай.
+<details open>
+<summary><b>📂 Не из ZIP</b></summary>
+
+<br>
+
+Сначала **распакуй** архив, потом запускай `.exe`.
+
+</details>
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- ГОРЯЧИЕ КЛАВИШИ                                   -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div align="center">
 
 ## ⌨️ Горячие клавиши
+
+</div>
+
+<div align="center">
 
 <table>
 <tr>
@@ -354,66 +664,69 @@
 
 ### 🎬 Основные
 
-<kbd>Esc</kbd> — прервать каст
+<br>
 
-<kbd>F1</kbd> <kbd>F2</kbd> <kbd>F3</kbd> — комбо
+<kbd>Esc</kbd> → прервать каст
 
-<kbd>Insert</kbd> — пауза
+<br><br>
+
+<kbd>F1</kbd> <kbd>F2</kbd> <kbd>F3</kbd> → комбо
+
+<br><br>
+
+<kbd>Insert</kbd> → пауза
 
 </td>
 <td width="33%" align="center">
 
 ### 🧪 BETA
 
-<kbd>V</kbd> — Armlet в игре
+<br>
 
-<kbd>Space</kbd> — Armlet swap
+<kbd>V</kbd> → Armlet в игре
 
-<kbd>Alt</kbd>+<kbd>D</kbd> — каст на себя
+<br><br>
+
+<kbd>Space</kbd> → Armlet swap
+
+<br><br>
+
+<kbd>Alt</kbd>+<kbd>D</kbd> → каст на себя
 
 </td>
 <td width="33%" align="center">
 
 ### 🖥 В приложении
 
-Клик по иконке в трее — меню
+<br>
 
-Кнопка «Пауза» в шапке
+🖱 Клик по иконке в трее — меню
+
+<br><br>
+
+⏸ Кнопка «Пауза» в шапке
+
+<br><br>
+
+🔄 F5 — перезагрузка конфига
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
-## 🎮 Быстрый старт
-1️⃣ Зайди в Discord → получи ключ 🎁
-↓
-2️⃣ Скачай IMP со страницы релизов
-↓
-3️⃣ Запусти IMP.exe → введи ключ
-↓
-4️⃣ Вкладка "Способности" → назначь бинды
-↓
-5️⃣ Включи "АВТОЮЗ ОДИНОЧНЫХ" в Настройках
-↓
-6️⃣ Запусти Dota → встань на Invoker'а
-↓
-7️⃣ Нажми бинд → каст сработал ⚡
-↓
-8️⃣ Не забывай /ежедневно в Discord → ключ продлевается
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-text
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- FAQ                                               -->
+<!-- ═══════════════════════════════════════════════════ -->
 
 <div align="center">
 
-> 📌 **Совет:** первые тесты делай в **Demo Hero** — там безопасно экспериментировать.
+## ❓ Часто задаваемые вопросы
 
 </div>
-
----
-
-## ❓ FAQ
 
 <details>
 <summary><b>🚫 Программа не запускается — что делать?</b></summary>
@@ -434,12 +747,12 @@ text
 
 **Проверь по пунктам:**
 
-- **Формат:** `IMP-XXXX-XXXX`
-- **Срок:** ключ не истёк (проверь `/мойключ` в Discord)
-- **Привязка:** ключ не активирован на другом ПК
-- **Опечатки:** проверь руками
+- ✅ **Формат:** `IMP-XXXX-XXXX`
+- ✅ **Срок:** ключ не истёк (проверь `/мойключ` в Discord)
+- ✅ **Привязка:** ключ не активирован на другом ПК
+- ✅ **Опечатки:** проверь руками
 
-**Всё ок?** → Пиши в [Discord](https://discord.gg/xTQnwnh2jG)
+**Всё ок?** → Пиши в [Discord](https://discord.gg/xTQnwnh2jG) или `/тикет`
 
 </details>
 
@@ -450,12 +763,14 @@ text
 
 **Ключ выдаётся на 1 день**, продлить можно бесплатно:
 
-- `/ежедневно` — бонус за вход
-- `/рулетка` — крутить раз в день
-- **Активность в чате** — копится автоматически
-- `/реферал` — приглашай друзей
-- `/магазин` — покупай дни за койны
-- `/промокод` — бонусы от администрации
+| Способ | Что даёт |
+|--------|----------|
+| 🎁 `/ежедневно` | +6/12/24 часа |
+| 🎰 `/рулетка` | до +5 дней |
+| 💬 Активность | +12 часов |
+| 👥 `/реферал` | +1 день за друга |
+| 🛒 `/магазин` | покупка дней |
+| 🎟 `/промокод` | бонусы |
 
 **Чем активнее в Discord — тем дольше живёт ключ.**
 
@@ -475,8 +790,7 @@ text
 - 👥 `/реферал`
 - 🏆 Достижения
 
-**Как потратить:**
-- `/магазин` → купить дни ключа, VIP и другое
+**Как потратить:** `/магазин` → купить дни ключа, VIP и другое.
 
 </details>
 
@@ -488,7 +802,8 @@ text
 **VIP-статус** даёт:
 
 - ⭐ Золотая карточка профиля
-- ×2 койны и часы в ежедневном бонусе
+- ×2 койны в `/ежедневно`
+- ×2 часы ключа
 - ×2 опыт за сообщения
 - Доступ в VIP-канал
 - Отдельная группа на сервере
@@ -502,10 +817,10 @@ text
 
 <br>
 
-- **`/рулетка`** — раз в день, шанс выиграть койны или дни
+- **`/рулетка`** — раз в день, от койнов до дней
 - **`/казино <сумма>`** — ставка 50/50
 - **`/слоты <сумма>`** — три барабана, шанс ×50
-- **`/розыгрыши`** — регулярные ивенты от админов
+- **`/розыгрыши`** — регулярные ивенты
 
 </details>
 
@@ -517,13 +832,13 @@ text
 **Кланы** — объединения для совместной игры.
 
 **Команды:**
-- `/клан создать` — создать клан
+- `/клан создать` — создать
 - `/клан вступить` — вступить по ID
 - `/клан инфо` — статистика (красивая карточка)
 - `/клан банк` — внести койны
-- `/топ_кланов` — топ-10 кланов
+- `/топ_кланов` — топ-10
 
-Максимум 10 человек в клане.
+Максимум 10 человек.
 
 </details>
 
@@ -535,7 +850,7 @@ text
 Программа показывает **твою статистику на Invoker'е** из реальных матчей.
 
 **Что нужно:**
-1. Введи **Steam ID** или ссылку на профиль
+1. Введи **Steam ID** или ссылку
 2. Нажми **🔍 Загрузить**
 
 **Что показывает:**
@@ -545,7 +860,7 @@ text
 - Рекомендации по билду
 - Counter-пики
 
-**Требуется публичный профиль Steam.**
+⚠️ **Требуется публичный профиль Steam.**
 
 </details>
 
@@ -557,7 +872,7 @@ text
 Для Alacrity, Ghost Walk, Forged Spirit:
 
 1. Вкладка **Способности**
-2. Найди нужную способность
+2. Найди нужную
 3. Включи тумблер **🎯 ON SELF**
 
 Теперь каст пойдёт на тебя.
@@ -575,9 +890,9 @@ text
 2. Нажми **● Записать**
 3. Переключись в **Dota** (Demo Hero)
 4. Сыграй комбо руками
-5. Вернись в IMP → нажми **■ Стоп**
+5. Вернись в IMP → **■ Стоп**
 6. Шаги заполнятся автоматически
-7. Нажми **💾 Сохранить**
+7. **💾 Сохранить**
 
 </details>
 
@@ -602,7 +917,12 @@ text
 
 <br>
 
-**Win + R** → введи `%LOCALAPPDATA%\IMP` → Enter → удали `license.json`
+**Win + R** → введи:
+%LOCALAPPDATA%\IMP
+
+text
+
+→ Enter → удали `license.json`
 
 При следующем запуске программа попросит ключ заново.
 
@@ -614,10 +934,11 @@ text
 <br>
 
 Обратись в [Discord](https://discord.gg/xTQnwnh2jG) через `/тикет`:
+
 - Твой ключ
 - Причина смены
 
-Администрация выдаст новый ключ.
+Администрация выдаст новый.
 
 </details>
 
@@ -628,9 +949,9 @@ text
 
 **Чеклист:**
 
-1. **Discord запущен** (десктоп-приложение, не браузер)
-2. В Discord: `Настройки → Игровая активность → Показывать текущую игру` ✅
-3. В IMP: **Настройки → Приватность → Discord-статус** — **ВКЛ**
+1. ✅ **Discord запущен** (десктоп-приложение, не браузер)
+2. ✅ В Discord: `Настройки → Игровая активность → Показывать текущую игру`
+3. ✅ В IMP: **Настройки → Приватность → Discord-статус**
 
 </details>
 
@@ -646,104 +967,141 @@ text
 
 </details>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- ROADMAP                                           -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div align="center">
 
 ## 🗺 Roadmap
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ✅ Готово (v1.0.9)
+### ✅ Готово в v1.0.9
 
-- [x] Каст способностей одной клавишей
-- [x] Комбо-цепочки
-- [x] Оверлей поверх игры
-- [x] Статус в Discord
-- [x] Кастомный трей
-- [x] 4 темы оформления
-- [x] Пауза макросов
-- [x] Всплывающие уведомления
-- [x] Запись комбо
-- [x] Armlet HP Reset
-- [x] Автоюз для каждой способности
-- [x] Каст на себя
-- [x] Статистика Invoker'а
-- [x] Иконки героев и предметов
-- [x] Discord-сообщество с прокачкой
+- ✅ Каст одной клавишей
+- ✅ Комбо-цепочки
+- ✅ Оверлей поверх игры
+- ✅ Discord Rich Presence
+- ✅ Кастомный трей
+- ✅ 4 темы оформления
+- ✅ Пауза макросов
+- ✅ Уведомления
+- ✅ Запись комбо
+- ✅ Armlet HP Reset
+- ✅ Автоюз per-ability
+- ✅ Каст на себя
+- ✅ Статистика Invoker'а
+- ✅ Реальные иконки
+- ✅ Discord-сообщество
 
 </td>
 <td width="50%" valign="top">
 
 ### ⏳ В планах
 
-- [ ] Индикаторы кулдаунов на оверлее
-- [ ] Профили под стиль игры
-- [ ] Тренировочный режим
-- [ ] Импорт/экспорт настроек
-- [ ] Голосовые уведомления
-- [ ] Больше языков
-- [ ] Кастомные скины интерфейса
+- 📊 Индикаторы кулдаунов
+- 🎮 Профили под стиль игры
+- 🏋 Тренировочный режим
+- 📤 Импорт/экспорт настроек
+- 🎵 Голосовые уведомления
+- 🌍 Больше языков
+- 🎨 Кастомные скины
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- ССЫЛКИ                                            -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div align="center">
 
 ## 🔗 Полезные ссылки
 
-<table>
-<tr>
-<td align="center" width="33%">
+<br>
 
-### 🚀 [Скачать](https://github.com/lolsosunchik/Invoker-Macro-Pro/releases)
+<a href="https://github.com/lolsosunchik/Invoker-Macro-Pro/releases">
+  <img src="https://img.shields.io/badge/🚀_СКАЧАТЬ-FF6B6B?style=for-the-badge&labelColor=1a1a1a" height="55"/>
+</a>
+&nbsp;
+<a href="https://discord.gg/xTQnwnh2jG">
+  <img src="https://img.shields.io/badge/💬_DISCORD-5865F2?style=for-the-badge&labelColor=1a1a1a&logo=discord&logoColor=white" height="55"/>
+</a>
+&nbsp;
+<a href="https://github.com/lolsosunchik/Invoker-Macro-Pro/blob/main/CHANGELOG.md">
+  <img src="https://img.shields.io/badge/📋_ИСТОРИЯ-3B82F6?style=for-the-badge&labelColor=1a1a1a" height="55"/>
+</a>
 
-Последняя версия
+</div>
 
-</td>
-<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### 💬 [Discord](https://discord.gg/xTQnwnh2jG)
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- ДИСКЛЕЙМЕР                                        -->
+<!-- ═══════════════════════════════════════════════════ -->
 
-Ключ + поддержка + сообщество
-
-</td>
-<td align="center" width="33%">
-
-### 📋 [История версий](https://github.com/lolsosunchik/Invoker-Macro-Pro/blob/main/CHANGELOG.md)
-
-Все изменения
-
-</td>
-</tr>
-</table>
-
----
+<div align="center">
 
 ## ⚖️ Дисклеймер
+
+<br>
 
 **Программа распространяется «как есть».**
 
 Автор **не несёт ответственности** за:
 
-- Возможные блокировки аккаунта Dota 2
-- Потерю MMR или игровых ценностей
-- Любой другой ущерб
+🚫 Возможные блокировки аккаунта Dota 2
+
+📉 Потерю MMR или игровых ценностей
+
+⚠️ Любой другой ущерб
+
+<br>
 
 **Использование на свой риск.**
 
-> ⚠️ **Автор не связан с Valve Corporation.** Dota 2, Steam — торговые марки Valve.
+<br><br>
 
----
+> ⚠️ **Автор не связан с Valve Corporation.**
+> Dota 2, Steam — торговые марки Valve.
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- FOOTER                                            -->
+<!-- ═══════════════════════════════════════════════════ -->
 
 <div align="center">
 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:8B5CF6,100:3B82F6&height=150&section=footer&text=Спасибо%20за%20использование!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
+
+<br><br>
+
 ## ⭐ Если программа помогла — поставь звезду!
 
-Каждая звезда мотивирует развивать проект 💪
+**Каждая звезда мотивирует развивать проект 💪**
 
 <br>
+
+<a href="https://github.com/lolsosunchik/Invoker-Macro-Pro/stargazers">
+  <img src="https://img.shields.io/badge/⭐_ПОСТАВИТЬ_ЗВЕЗДУ-FFD700?style=for-the-badge&labelColor=1a1a1a&logo=github&logoColor=white" height="45"/>
+</a>
+
+<br><br>
 
 **Сделано с ❤️ для сообщества Dota 2**
 
@@ -751,6 +1109,6 @@ text
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Приятной%20игры!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:FF6B6B&height=80&section=footer" width="100%"/>
 
 </div>

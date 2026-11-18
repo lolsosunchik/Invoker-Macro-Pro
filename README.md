@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/xTQnwnh2jG">
+  <a href="https://discord.gg/64eUs972TS">
     <img src="https://img.shields.io/badge/╔══_💬_DISCORD_══╗-5865F2?style=for-the-badge&labelColor=0a1929&logo=discord&logoColor=white" height="60"/>
   </a>
 </p>
@@ -659,7 +659,7 @@
 <br>
 
 <p align="center">
-  <a href="https://discord.gg/xTQnwnh2jG">
+  <a href="https://discord.gg/64eUs972TS">
     <img src="https://img.shields.io/badge/╔══_❄️_ПРИСОЕДИНИТЬСЯ_❄️_══╗-5865F2?style=for-the-badge&labelColor=0a1929&logo=discord&logoColor=white" height="60"/>
   </a>
 </p>
@@ -710,7 +710,7 @@
 
 <h3 style="color: #E0F0FF;">ЗАЙДИ</h3>
 
-<p style="color: #4A9EFF;">в <a href="https://discord.gg/xTQnwnh2jG">Discord</a></p>
+<p style="color: #4A9EFF;">в <a href="https://discord.gg/64eUs972TS">Discord</a></p>
 
 <sub style="color: #80C0FF;">Прими правила</sub>
 
@@ -1077,7 +1077,7 @@
 - ✅ **Привязка:** не активирован на другом ПК
 - ✅ **Опечатки:** проверь руками
 
-**Всё ок?** → [Discord](https://discord.gg/xTQnwnh2jG) или `/тикет`
+**Всё ок?** → [Discord](https://discord.gg/64eUs972TS) или `/тикет`
 
 </details>
 
@@ -1209,7 +1209,7 @@
 
 <br>
 
-В [Discord](https://discord.gg/xTQnwnh2jG) через `/тикет`.
+В [Discord](https://discord.gg/64eUs972TS) через `/тикет`.
 
 </details>
 
@@ -1358,7 +1358,7 @@
 </td>
 <td align="center" width="33%" style="padding: 25px; background: linear-gradient(180deg, #1e3a5f 0%, #0a1929 100%); border-radius: 20px; border: 3px solid #5865F2; box-shadow: 0 0 30px rgba(88, 101, 242, 0.5);">
 
-<a href="https://discord.gg/xTQnwnh2jG">
+<a href="https://discord.gg/64eUs972TS">
   <img src="https://img.shields.io/badge/💬_DISCORD-5865F2?style=for-the-badge&labelColor=0a1929&logo=discord&logoColor=white" height="50"/>
 </a>
 
@@ -1499,7 +1499,7 @@
   <a href="https://github.com/lolsosunchik/Invoker-Macro-Pro">
     <img src="https://img.shields.io/badge/GitHub-Invoker--Macro--Pro-181717?style=for-the-badge&labelColor=0a1929&logo=github&logoColor=white" height="36"/>
   </a>
-  <a href="https://discord.gg/xTQnwnh2jG">
+  <a href="https://discord.gg/64eUs972TS">
     <img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&labelColor=0a1929&logo=discord&logoColor=white" height="36"/>
   </a>
 </p>

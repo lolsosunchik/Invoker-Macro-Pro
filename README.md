@@ -10,7 +10,7 @@
 <!-- ═══ РАБОЧИЙ TYPING SVG ═══ -->
 <p align="center">
   <a href="https://github.com/lolsosunchik/Invoker-Macro-Pro">
-    <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=38&duration=3000&pause=600&color=4A9EFF&center=true&vCenter=true&width=800&height=70&lines=%E2%9D%84%EF%B8%8F+INVOKER+MACRO+PRO+%E2%9D%84%EF%B8%8F;%E2%9A%A1+%D0%9A%D0%90%D0%A1%D0%A2+%D0%9E%D0%94%D0%9D%D0%9E%D0%99+%D0%9A%D0%9B%D0%90%D0%92%D0%98%D0%A8%D0%95%D0%99+%E2%9A%A1;%F0%9F%8E%AC+%D0%9A%D0%9E%D0%9C%D0%91%D0%9E+%D0%A6%D0%95%D0%9F%D0%9E%D0%A7%D0%9A%D0%98+%F0%9F%8E%AC;%F0%9F%92%AC+DISCORD+%D0%A1%D0%9E%D0%9E%D0%91%D0%A9%D0%95%D0%A1%D0%A2%D0%92%D0%9E+%F0%9F%92%AC;%E2%AD%90+%D0%9F%D0%9E%D0%A1%D0%A2%D0%90%D0%92%D0%AC+%D0%97%D0%92%D0%95%D0%97%D0%94%D0%A3+%E2%AD%90" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=38&duration=3000&pause=600&color=4A9EFF&center=true&vCenter=true&width=800&height=70&lines=%E2%9D%84%EF%B8%8F+INVOKER+MACRO+PRO+%E2%9D%84%EF%B8%8F;%F0%9F%93%A1+GSI+LIVE+%D0%98%D0%97+DOTA+2+%F0%9F%93%A1;%F0%9F%A7%A0+%D0%A3%D0%9C%D0%9D%D0%AB%D0%95+%D0%9A%D0%90%D0%A1%D0%A2%D0%AB+%F0%9F%A7%A0;%F0%9F%96%A5+%D0%9D%D0%9E%D0%92%D0%AB%D0%99+LIVE-UI+%F0%9F%96%A5;%F0%9F%94%84+%D0%90%D0%92%D0%A2%D0%9E%D0%9E%D0%91%D0%9D%D0%9E%D0%92%D0%9B%D0%95%D0%9D%D0%98%D0%95+%F0%9F%94%84;%E2%AD%90+%D0%9F%D0%9E%D0%A1%D0%A2%D0%90%D0%92%D0%AC+%D0%97%D0%92%D0%95%D0%97%D0%94%D0%A3+%E2%AD%90" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://github.com/lolsosunchik/Invoker-Macro-Pro/releases">
-    <img src="https://img.shields.io/badge/❄️_VERSION-1.0.9-4A9EFF?style=for-the-badge&labelColor=0a1929&logo=semanticrelease&logoColor=white" height="38"/>
+    <img src="https://img.shields.io/badge/❄️_VERSION-1.1.0-4A9EFF?style=for-the-badge&labelColor=0a1929&logo=semanticrelease&logoColor=white" height="38"/>
   </a>
   <a href="https://github.com/lolsosunchik/Invoker-Macro-Pro/releases">
     <img src="https://img.shields.io/badge/🖥_OS-Windows_10%2F11-1E3A5F?style=for-the-badge&labelColor=0a1929&logo=windows&logoColor=white" height="38"/>
@@ -89,7 +89,7 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snowflake.png" width="42"/>
-  <span style="background: linear-gradient(90deg, #4A9EFF, #00E5FF, #E0F0FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 42px; font-weight: 900;">ЧТО НОВОГО В v1.0.9</span>
+  <span style="background: linear-gradient(90deg, #4A9EFF, #00E5FF, #E0F0FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 42px; font-weight: 900;">ЧТО НОВОГО В v1.1.0</span>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snowflake.png" width="42"/>
 </h1>
 
@@ -118,11 +118,11 @@
 
 <br><br>
 
-<h2 style="color: #4A9EFF; margin: 0;">🎯 АВТОЮЗ</h2>
-<h3 style="color: #00E5FF; margin: 5px 0 15px 0;">PER-ABILITY</h3>
+<h2 style="color: #4A9EFF; margin: 0;">📡 GSI LIVE</h2>
+<h3 style="color: #00E5FF; margin: 5px 0 15px 0;">ДАННЫЕ ИЗ DOTA 2</h3>
 
 <p style="color: #E0F0FF;">
-Отдельный тумблер для <b>каждой</b> способности. Cold Snap кастуй сам, Sun Strike — автоматически.
+Герой, HP/MP, мана, золото, KDA, таймер, враги, способности — <b>всё в реальном времени</b>.
 </p>
 
 </div>
@@ -147,11 +147,11 @@
 
 <br><br>
 
-<h2 style="color: #00E5FF; margin: 0;">🎯 КАСТ</h2>
-<h3 style="color: #4A9EFF; margin: 5px 0 15px 0;">НА СЕБЯ</h3>
+<h2 style="color: #00E5FF; margin: 0;">🧠 УМНЫЕ</h2>
+<h3 style="color: #4A9EFF; margin: 5px 0 15px 0;">КАСТЫ</h3>
 
 <p style="color: #E0F0FF;">
-<b>Alt + D</b> — каст на себя одной кнопкой. Идеально для Alacrity, Ghost Walk, Forged Spirit.
+Проверка <b>смерти, стана, silence, hex, маны и КД</b> перед кастом. Пропуск невозможных шагов.
 </p>
 
 </div>
@@ -176,11 +176,11 @@
 
 <br><br>
 
-<h2 style="color: #E0F0FF; margin: 0;">📊 СТАТИСТИКА</h2>
-<h3 style="color: #4A9EFF; margin: 5px 0 15px 0;">INVOKER'А</h3>
+<h2 style="color: #E0F0FF; margin: 0;">🖥 НОВЫЙ</h2>
+<h3 style="color: #4A9EFF; margin: 5px 0 15px 0;">LIVE-UI</h3>
 
 <p style="color: #E0F0FF;">
-<b>Winrate, матчи, топ герои, билды</b> — всё в одной вкладке.
+Карточка героя, HP/MP-бары, <b>кольца КД 10 способностей</b>, панель врагов, мана-калькулятор, дека комбо.
 </p>
 
 </div>
@@ -209,11 +209,11 @@
 
 <br><br>
 
-<h2 style="color: #4A9EFF; margin: 0;">🖼 РЕАЛЬНЫЕ</h2>
-<h3 style="color: #00E5FF; margin: 5px 0 15px 0;">ИКОНКИ DOTA 2</h3>
+<h2 style="color: #4A9EFF; margin: 0;">🪟 НОВЫЙ</h2>
+<h3 style="color: #00E5FF; margin: 5px 0 15px 0;">ОВЕРЛЕЙ</h3>
 
 <p style="color: #E0F0FF;">
-Иконки способностей, героев и предметов — <b>как в самой игре</b>.
+Живой <b>GSI HUD</b> с сегментированными барами, кольцами КД, врагами. Позиция, прозрачность, бренд IMP.
 </p>
 
 </div>
@@ -235,11 +235,11 @@
 
 <br><br>
 
-<h2 style="color: #00E5FF; margin: 0;">🌐 НОВАЯ</h2>
-<h3 style="color: #4A9EFF; margin: 5px 0 15px 0;">СИСТЕМА КЛЮЧЕЙ</h3>
+<h2 style="color: #00E5FF; margin: 0;">🔄 АВТО-</h2>
+<h3 style="color: #4A9EFF; margin: 5px 0 15px 0;">ОБНОВЛЕНИЕ</h3>
 
 <p style="color: #E0F0FF;">
-Обновлённая защита. <b>Ключ привязан к твоему ПК.</b>
+Проверка релизов, скачивание, распаковка, <b>imp_update.bat</b> и перезапуск — прямо из приложения.
 </p>
 
 </div>
@@ -261,11 +261,11 @@
 
 <br><br>
 
-<h2 style="color: #E0F0FF; margin: 0;">🎮 DISCORD</h2>
-<h3 style="color: #4A9EFF; margin: 5px 0 15px 0;">СООБЩЕСТВО 2.0</h3>
+<h2 style="color: #E0F0FF; margin: 0;">🔗 ШАРИНГ</h2>
+<h3 style="color: #4A9EFF; margin: 5px 0 15px 0;">КОМБО</h3>
 
 <p style="color: #E0F0FF;">
-Прокачка, койны, кланы, <b>розыгрыши и игры</b>.
+Экспорт/импорт кодом <b>IMP1-…</b>, дублирование, проверка конфликтов хоткеев.
 </p>
 
 </div>
@@ -273,6 +273,41 @@
 </td>
 </tr>
 </table>
+
+<br>
+
+<!-- ═══ СПИСОК ИЗМЕНЕНИЙ ═══ -->
+
+<div style="
+  background: linear-gradient(135deg, #0a1929 0%, #1e3a5f 100%);
+  border: 2px solid #4A9EFF;
+  border-radius: 20px;
+  padding: 30px;
+  margin: 20px 0;
+  box-shadow: 
+    0 0 30px rgba(74, 158, 255, 0.4),
+    0 20px 60px rgba(0, 0, 0, 0.6),
+    inset 0 1px 0 rgba(255, 255, 255, 0.1);
+">
+
+<h3 align="center" style="color: #4A9EFF;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="28"/>
+  Полный список изменений
+</h3>
+
+<p align="center" style="color: #E0F0FF;">
+<b style="color: #4A9EFF;">✨ Новое:</b> GSI Live (fallback 3000→3003, /health) · Умные касты · Раскладка сфер (quas/wex/exort + invoke_key) · Новый LIVE-UI · Новый оверлей · Автообновление · Шаринг комбо IMP1-… · Конфиг в <code>%LOCALAPPDATA%\IMP\invoker_config.json</code> с миграцией и debounced autosave
+</p>
+
+<p align="center" style="color: #E0F0FF;">
+<b style="color: #00E5FF;">🐞 Фиксы:</b> Уникальные id комбо · Регистрация хоткея при импорте · Упаковка HP/MP-текста в оверлее · Дубли/битые ссылки в UI · Стабильный Esc/Enter со слотами сфер · UTF-8-safe вывод · Корректная миграция конфига
+</p>
+
+<p align="center" style="color: #E0F0FF;">
+<b style="color: #E0F0FF;">🔒 Защита:</b> Nuitka native (без .py/.pyc, -OO), onefile · Анти-отладка · SHA-256 манифест целостности · Проверка компиляции модулей · Серверная проверка ключа
+</p>
+
+</div>
 
 <br>
 
@@ -363,7 +398,7 @@
 
 <br>
 
-<!-- ═══ КАСТ ═══ -->
+<!-- ═══ GSI LIVE ═══ -->
 
 <div style="
   background: linear-gradient(135deg, #0a1929 0%, #1e3a5f 100%);
@@ -379,7 +414,7 @@
 
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snowflake.png" width="32"/>
-  <span style="color: #4A9EFF;">КАСТ СПОСОБНОСТЕЙ</span>
+  <span style="color: #4A9EFF;">📡 GSI LIVE — ДАННЫЕ ИЗ DOTA 2</span>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snowflake.png" width="32"/>
 </h2>
 
@@ -390,23 +425,18 @@
 <td width="50%" valign="top">
 
 <table width="100%" style="border-collapse: separate; border-spacing: 8px;">
-<tr><td width="45" align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Каст одной клавишей</b><br><sub>Нажал F → всё готово</sub></td></tr>
-<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Автоюз per-ability</b><br><sub>Свой тумблер для каждой</sub></td></tr>
-<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Каст на себя</b><br><sub>Alt+D одной кнопкой</sub></td></tr>
-<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shuffle%20Tracks%20Button.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Умная очередь</b><br><sub>Нажатия не пропадают</sub></td></tr>
-<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Stop%20Sign.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Прерывание Esc</b><br><sub>Мгновенная остановка</sub></td></tr>
-<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snowman.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Реальные иконки</b><br><sub>Прямо из Dota 2</sub></td></tr>
+<tr><td width="45" align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Герой, HP/MP, мана</b><br><sub>в реальном времени</sub></td></tr>
+<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Золото, KDA, таймер</b><br><sub>как в самой игре</sub></td></tr>
+<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Враги и способности</b><br><sub>полный обзор</sub></td></tr>
 </table>
 
 </td>
 <td width="50%" valign="top">
 
 <table width="100%" style="border-collapse: separate; border-spacing: 8px;">
-<tr><td width="45" align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #00E5FF;">Цепочки способностей</b><br><sub>SS → Meteor → Blast</sub></td></tr>
-<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Timer%20Clock.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #00E5FF;">Свои задержки</b><br><sub>Между каждым шагом</sub></td></tr>
-<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #00E5FF;">Хоткеи комбо</b><br><sub>F1, F2, F3</sub></td></tr>
-<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Movie%20Camera.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #00E5FF;">Запись кастов</b><br><sub>Сыграл → сохранил</sub></td></tr>
-<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #00E5FF;">Редактор комбо</b><br><sub>Прямо в программе</sub></td></tr>
+<tr><td width="45" align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shuffle%20Tracks%20Button.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #00E5FF;">Fallback портов</b><br><sub>3000 → 3003</sub></td></tr>
+<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Stop%20Sign.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #00E5FF;">/health эндпоинт</b><br><sub>проверка соединения</sub></td></tr>
+<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snowman.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #00E5FF;">Умные касты</b><br><sub>на основе GSI-данных</sub></td></tr>
 </table>
 
 </td>
@@ -417,7 +447,7 @@
 
 <br>
 
-<!-- ═══ СТАТИСТИКА + ОВЕРЛЕЙ ═══ -->
+<!-- ═══ КАСТ + СФЕРЫ ═══ -->
 
 <div style="
   background: linear-gradient(135deg, #0a1929 0%, #1e3a5f 100%);
@@ -430,7 +460,7 @@
 
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="32"/>
-  <span style="color: #00E5FF;">СТАТИСТИКА И ОВЕРЛЕЙ</span>
+  <span style="color: #00E5FF;">🧠 УМНЫЕ КАСТЫ И РАСКЛАДКА СФЕР</span>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="32"/>
 </h2>
 
@@ -441,22 +471,72 @@
 <td width="50%" valign="top">
 
 <table width="100%" style="border-collapse: separate; border-spacing: 8px;">
-<tr><td width="45" align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Chart%20Increasing.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #00E5FF;">Winrate</b> — все матчи на Invoker'е</td></tr>
-<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #00E5FF;">Последние 10 матчей</b> с KDA</td></tr>
-<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #00E5FF;">Топ-5 героев</b> по винрейту</td></tr>
-<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #00E5FF;">Рекомендации по билду</b></td></tr>
-<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snowflake.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #00E5FF;">Counter-пики</b></td></tr>
+<tr><td width="45" align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #00E5FF;">Проверка смерти</b><br><sub>не кастуем мёртвым</sub></td></tr>
+<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Timer%20Clock.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #00E5FF;">Стан / silence / hex</b><br><sub>пропуск под контролем</sub></td></tr>
+<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #00E5FF;">Мана и КД</b><br><sub>перед каждым шагом</sub></td></tr>
+<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Movie%20Camera.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #00E5FF;">Суммарная мана</b><br><sub>проверка всего комбо</sub></td></tr>
+<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #00E5FF;">Скип невозможных</b><br><sub>шагов</sub></td></tr>
 </table>
 
 </td>
 <td width="50%" valign="top">
 
 <table width="100%" style="border-collapse: separate; border-spacing: 8px;">
-<tr><td width="45" align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Поверх окна игры</b></td></tr>
-<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Droplet.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Прозрачность</b> 40-100%</td></tr>
-<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Triangular%20Ruler.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Изменение размера</b></td></tr>
-<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Панель способностей</b></td></tr>
-<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Computer%20Mouse.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Перетаскивание</b> за header</td></tr>
+<tr><td width="45" align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Каст одной клавишей</b><br><sub>Нажал F → всё готово</sub></td></tr>
+<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Автоюз per-ability</b><br><sub>Свой тумблер для каждой</sub></td></tr>
+<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Каст на себя</b><br><sub>Alt+D одной кнопкой</sub></td></tr>
+<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shuffle%20Tracks%20Button.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Раскладка сфер</b><br><sub>quas / wex / exort + invoke_key</sub></td></tr>
+<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Stop%20Sign.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Ремап последовательностей</b><br><sub>под свой стиль</sub></td></tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- ═══ LIVE-UI + ОВЕРЛЕЙ ═══ -->
+
+<div style="
+  background: linear-gradient(135deg, #0a1929 0%, #1e3a5f 100%);
+  border: 2px solid #E0F0FF;
+  border-radius: 20px;
+  padding: 30px;
+  margin: 20px 0;
+  box-shadow: 0 0 30px rgba(224, 240, 255, 0.4), 0 20px 60px rgba(0, 0, 0, 0.6);
+">
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snowman.png" width="32"/>
+  <span style="color: #E0F0FF;">🖥 LIVE-UI И ОВЕРЛЕЙ</span>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snowman.png" width="32"/>
+</h2>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<table width="100%" style="border-collapse: separate; border-spacing: 8px;">
+<tr><td width="45" align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Chart%20Increasing.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #E0F0FF;">Карточка героя</b><br><sub>портрет + имя</sub></td></tr>
+<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #E0F0FF;">HP/MP-бары</b><br><sub>живые значения</sub></td></tr>
+<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #E0F0FF;">Кольца КД</b><br><sub>10 способностей</sub></td></tr>
+<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #E0F0FF;">Мана-калькулятор</b><br><sub>хватит ли на комбо</sub></td></tr>
+<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snowflake.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #E0F0FF;">Дека комбо</b><br><sub>быстрый доступ</sub></td></tr>
+</table>
+
+</td>
+<td width="50%" valign="top">
+
+<table width="100%" style="border-collapse: separate; border-spacing: 8px;">
+<tr><td width="45" align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Поверх окна игры</b><br><sub>GSI HUD</sub></td></tr>
+<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Droplet.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Прозрачность</b><br><sub>40–100%</sub></td></tr>
+<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Triangular%20Ruler.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Позиция и размер</b><br><sub>перетаскивание за header</sub></td></tr>
+<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Сегментированные бары</b><br><sub>как в Dota</sub></td></tr>
+<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Computer%20Mouse.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Бренд IMP</b><br><sub>фирменный стиль</sub></td></tr>
 </table>
 
 </td>
@@ -480,7 +560,7 @@
 
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snowman.png" width="32"/>
-  <span style="color: #E0F0FF;">BETA И ИНТЕРФЕЙС</span>
+  <span style="color: #E0F0FF;">BETA, КОНФИГ И ИНТЕРФЕЙС</span>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snowman.png" width="32"/>
 </h2>
 
@@ -495,17 +575,18 @@
 <tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Timer%20Clock.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #E0F0FF;">Настройка времени</b><br><sub>От 1 до 200 мс</sub></td></tr>
 <tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Clockwise%20Vertical%20Arrows.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #E0F0FF;">До 5 повторов</b></td></tr>
 <tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Collision.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #E0F0FF;">Мгновенный swap</b></td></tr>
+<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/New%20Moon.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">4 темы оформления</b><br><sub>Тёмная / Светлая / Красная / ❄️ Зимняя</sub></td></tr>
 </table>
 
 </td>
 <td width="50%" valign="top">
 
 <table width="100%" style="border-collapse: separate; border-spacing: 8px;">
-<tr><td width="45" align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/New%20Moon.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">4 темы оформления</b><br><sub>Тёмная / Светлая / Красная / ❄️ Зимняя</sub></td></tr>
-<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">RU / EN</b> локализация</td></tr>
+<tr><td width="45" align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">RU / EN</b> локализация</td></tr>
 <tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">3 режима производительности</b></td></tr>
-<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Плавные анимации</b></td></tr>
-<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bell.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Уведомления</b></td></tr>
+<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Атомарное сохранение</b><br><sub>+ debounced autosave</sub></td></tr>
+<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bell.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Миграция конфига</b><br><sub>из старой папки</sub></td></tr>
+<tr><td align="center" style="background: #0a1929; border-radius: 10px; padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="28"/></td><td style="color: #E0F0FF;"><b style="color: #4A9EFF;">Конфиг в %LOCALAPPDATA%</b><br><sub>invoker_config.json</sub></td></tr>
 </table>
 
 </td>
@@ -539,8 +620,6 @@
 </p>
 
 <br>
-
-<!-- ═══ 3 КАРТОЧКИ СООБЩЕСТВА ═══ -->
 
 <table align="center" width="100%" style="border-collapse: separate; border-spacing: 15px;">
 <tr>
@@ -696,8 +775,6 @@
 
 <br>
 
-<!-- ═══ 5 ШАГОВ ═══ -->
-
 <table align="center" width="100%" style="border-collapse: separate; border-spacing: 10px;">
 <tr>
 <td align="center" width="20%" style="padding: 25px; background: linear-gradient(180deg, #1e3a5f 0%, #0a1929 100%); border-radius: 20px; border: 2px solid #4A9EFF; box-shadow: 0 0 25px rgba(74, 158, 255, 0.4);">
@@ -814,19 +891,21 @@
 ║                                                                  ║
 ║   <b>1️⃣</b>   ❄️  Зайди в Discord  →  получи ключ                    ║
 ║                          ↓                                       ║
-║   <b>2️⃣</b>   📥  Скачай IMP со страницы релизов                      ║
+║   <b>2️⃣</b>   📥  Скачай IMPv1.1.0.exe со страницы релизов            ║
 ║                          ↓                                       ║
-║   <b>3️⃣</b>   ⚡  Запусти IMP.exe  →  введи ключ                       ║
+║   <b>3️⃣</b>   ⚡  Запусти .exe  →  введи ключ                          ║
 ║                          ↓                                       ║
 ║   <b>4️⃣</b>   🎯  Вкладка "Способности"  →  назначь бинды              ║
 ║                          ↓                                       ║
-║   <b>5️⃣</b>   ❄️  Включи "АВТОЮЗ ОДИНОЧНЫХ" в Настройках              ║
+║   <b>5️⃣</b>   🎛  Настрой раскладку сфер (quas/wex/exort)              ║
 ║                          ↓                                       ║
-║   <b>6️⃣</b>   🎮  Запусти Dota  →  встань на Invoker'а                ║
+║   <b>6️⃣</b>   ❄️  Включи "УМНЫЕ КАСТЫ" и "GSI LIVE" в Настройках        ║
 ║                          ↓                                       ║
-║   <b>7️⃣</b>   ⚡  Нажми бинд  →  каст сработал!                        ║
+║   <b>7️⃣</b>   🎮  Запусти Dota  →  встань на Invoker'а                ║
 ║                          ↓                                       ║
-║   <b>8️⃣</b>   🎁  /ежедневно в Discord  →  ключ продлевается          ║
+║   <b>8️⃣</b>   ⚡  Нажми бинд  →  каст сработал!                        ║
+║                          ↓                                       ║
+║   <b>9️⃣</b>   🎁  /ежедневно в Discord  →  ключ продлевается          ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 </pre>
@@ -836,7 +915,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/❄️_СОВЕТ-First_test_=_Demo_Hero-4A9EFF?style=for-the-badge&labelColor=0a1929" height="38"/>
+  <img src="https://img.shields.io/badge/❄️_СОВЕТ-GSI_включается_в_настройках_Dota_2-4A9EFF?style=for-the-badge&labelColor=0a1929" height="38"/>
 </p>
 
 <br>
@@ -878,7 +957,8 @@
 <table width="100%" style="color: #E0F0FF;">
 <tr><td><b style="color: #4A9EFF;">🖥 ОС</b></td><td>Windows 10 / 11 (64-bit)</td></tr>
 <tr><td><b style="color: #4A9EFF;">💾 Место</b></td><td>~150 МБ</td></tr>
-<tr><td><b style="color: #4A9EFF;">🌐 Интернет</b></td><td>Для активации и обновлений</td></tr>
+<tr><td><b style="color: #4A9EFF;">🌐 Интернет</b></td><td>Для активации и автообновления</td></tr>
+<tr><td><b style="color: #4A9EFF;">📡 GSI</b></td><td>Включён в Dota 2 (для LIVE-функций)</td></tr>
 </table>
 
 <br>
@@ -891,13 +971,13 @@
 <br>
 
 <pre align="center" style="color: #E0F0FF;">
-1. 📥  Скачай ZIP  со страницы релизов
+1. 📥  Скачай IMPv1.1.0.exe (или .rar)
               ↓
-2. 📂  Распакуй в C:\IMP\
+2. 📂  Запусти .exe (распакуй .rar, если качал его)
               ↓
-3. ⚡  Запусти IMP.exe
+3. 🔑  Получи ключ в Discord и введи
               ↓
-4. 🔑  Получи ключ в Discord
+4. 📡  Включи GSI в настройках Dota 2
               ↓
 5. 🎮  Играй!
 </pre>
@@ -923,7 +1003,7 @@
 <details open>
 <summary><b style="color: #E0F0FF;">🛡️ Антивирусы</b></summary>
 
-<p style="color: #4A9EFF;">Могут ложно срабатывать на <code>.exe</code>. <b>Добавь в исключения.</b></p>
+<p style="color: #4A9EFF;">Могут ложно срабатывать на <code>.exe</code> (Nuitka). <b>Добавь в исключения.</b></p>
 
 </details>
 
@@ -939,9 +1019,18 @@
 <br>
 
 <details open>
-<summary><b style="color: #E0F0FF;">📂 Не из ZIP</b></summary>
+<summary><b style="color: #E0F0FF;">📡 GSI Live</b></summary>
 
-<p style="color: #4A9EFF;">Сначала <b>распакуй</b>, потом запускай.</p>
+<p style="color: #4A9EFF;">Для LIVE-функций включи GSI в Dota 2. Приложение автоматически подхватит порт (3000 → 3003).</p>
+
+</details>
+
+<br>
+
+<details open>
+<summary><b style="color: #E0F0FF;">⚙️ Старый конфиг</b></summary>
+
+<p style="color: #4A9EFF;">Мигрируется в <code>%LOCALAPPDATA%\IMP\invoker_config.json</code> автоматически.</p>
 
 </details>
 
@@ -1063,7 +1152,7 @@
 <br>
 
 1. **Нужны админ-права** — ПКМ → **Запуск от имени администратора**
-2. **Антивирус блокирует** — добавь `IMP.exe` в исключения
+2. **Антивирус блокирует** — добавь `IMP.exe` в исключения (Nuitka-сборка иногда ложно детектится)
 
 </details>
 
@@ -1082,18 +1171,85 @@
 </details>
 
 <details>
-<summary><b>🔄 Как продлить ключ?</b></summary>
+<summary><b>📡 GSI Live не работает — что проверить?</b></summary>
 
 <br>
 
-| Способ | Что даёт |
-|--------|----------|
-| 🎁 `/ежедневно` | +6/12/24 часа |
-| 🎰 `/рулетка` | до +5 дней |
-| 💬 Активность | +12 часов |
-| 👥 `/реферал` | +1 день |
-| 🛒 `/магазин` | покупка дней |
-| 🎟 `/промокод` | бонусы |
+1. **GSI включён** в настройках Dota 2 (Опции → Игра → GSI)
+2. **Порт 3000 или 3003** свободен (IMP сам найдёт нужный)
+3. **/health** в браузере отвечает `ok`
+4. **Dota запущена** в оконном или borderless-режиме
+5. **Firewall** не блокирует `IMP.exe` (localhost)
+
+</details>
+
+<details>
+<summary><b>🧠 Почему умный каст пропускает способности?</b></summary>
+
+<br>
+
+Это **фича**, а не баг. Умные касты проверяют:
+
+- 💀 Смерть героя
+- ⚡ Стан / silence / hex
+- 🔵 Хватает ли маны на шаг
+- ⏱ Кулдаун способности
+- 📊 Общую ману на всё комбо
+
+Если условий нет — шаг пропускается, чтобы не тратить время впустую.
+
+</details>
+
+<details>
+<summary><b>🎛 Как настроить раскладку сфер?</b></summary>
+
+<br>
+
+Вкладка **Настройки → Раскладка сфер**:
+
+- `quas_key`, `wex_key`, `exort_key` — клавиши сфер
+- `invoke_key` — клавиша Invoke
+- **Ремап последовательностей** — под свой стиль
+
+</details>
+
+<details>
+<summary><b>🔄 Как работает автообновление?</b></summary>
+
+<br>
+
+1. При запуске проверяются **релизы** на GitHub
+2. Если есть новая версия — **скачивается**, распаковывается
+3. Запускается **imp_update.bat** и приложение **перезапускается**
+
+Работает в **frozen exe** (Nuitka onefile).
+
+</details>
+
+<details>
+<summary><b>🔗 Как поделиться комбо с другом?</b></summary>
+
+<br>
+
+1. Вкладка **Комбо** → **Экспорт**
+2. Получишь код вида `IMP1-…`
+3. Отправь другу
+4. Друг: **Импорт** → вставляет код → **хоткей регистрируется сразу**
+
+⚠️ Если хоткей уже занят — будет предложено его сменить.
+
+</details>
+
+<details>
+<summary><b>⚙️ Куда перенесён конфиг?</b></summary>
+
+<br>
+
+В **`%LOCALAPPDATA%\IMP\invoker_config.json`**
+
+- Миграция из старой папки — **автоматически**
+- Сохранение **атомарное** (не побьётся при выключении)
+- **Debounced autosave** — не тормозит UI
 
 </details>
 
@@ -1269,25 +1425,28 @@
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="28"/>
-  <span style="color: #4ADE80;">ГОТОВО В v1.0.9</span>
+  <span style="color: #4ADE80;">ГОТОВО В v1.1.0</span>
 </h3>
 
 <ul style="color: #E0F0FF;">
-<li>✅ Каст одной клавишей</li>
-<li>✅ Комбо-цепочки</li>
-<li>✅ Оверлей поверх игры</li>
-<li>✅ Discord Rich Presence</li>
-<li>✅ Кастомный трей</li>
-<li>✅ 4 темы оформления</li>
-<li>✅ Пауза макросов</li>
-<li>✅ Уведомления</li>
+<li>✅ GSI Live — данные из Dota 2</li>
+<li>✅ Умные касты (проверки)</li>
+<li>✅ Раскладка сфер + invoke_key</li>
+<li>✅ Новый LIVE-UI</li>
+<li>✅ Новый GSI-оверлей</li>
+<li>✅ Кольца КД 10 способностей</li>
+<li>✅ Автообновление</li>
+<li>✅ Шаринг комбо (IMP1-…)</li>
+<li>✅ Конфиг в %LOCALAPPDATA%</li>
+<li>✅ Nuitka native onefile</li>
+<li>✅ SHA-256 манифест целостности</li>
+<li>✅ Серверная проверка ключа</li>
+<li>✅ Автоюз per-ability</li>
+<li>✅ Каст на себя (Alt+D)</li>
 <li>✅ Запись комбо</li>
 <li>✅ Armlet HP Reset</li>
-<li>✅ Автоюз per-ability</li>
-<li>✅ Каст на себя</li>
-<li>✅ Статистика Invoker'а</li>
-<li>✅ Реальные иконки</li>
-<li>✅ Discord-сообщество</li>
+<li>✅ Discord Rich Presence</li>
+<li>✅ 4 темы оформления</li>
 </ul>
 
 </div>
@@ -1309,13 +1468,14 @@
 </h3>
 
 <ul style="color: #E0F0FF;">
-<li>⏳ Индикаторы кулдаунов</li>
 <li>⏳ Профили под стиль игры</li>
 <li>⏳ Тренировочный режим</li>
-<li>⏳ Импорт/экспорт настроек</li>
 <li>⏳ Голосовые уведомления</li>
 <li>⏳ Больше языков</li>
 <li>⏳ Кастомные скины</li>
+<li>⏳ Экспорт/импорт полных настроек</li>
+<li>⏳ Расширенная статистика GSI</li>
+<li>⏳ Запись комбо с учётом позиции</li>
 </ul>
 
 </div>
@@ -1353,7 +1513,7 @@
 
 <br><br>
 
-<b style="color: #E0F0FF;">Последняя версия</b>
+<b style="color: #E0F0FF;">IMPv1.1.0.exe / .rar</b>
 
 </td>
 <td align="center" width="33%" style="padding: 25px; background: linear-gradient(180deg, #1e3a5f 0%, #0a1929 100%); border-radius: 20px; border: 3px solid #5865F2; box-shadow: 0 0 30px rgba(88, 101, 242, 0.5);">

@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://github.com/lolsosunchik/Invoker-Macro-Pro/releases">
-    <img src="https://img.shields.io/badge/❄️_VERSION-1.1.0-4A9EFF?style=for-the-badge&labelColor=0a1929&logo=semanticrelease&logoColor=white" height="38"/>
+    <img src="https://img.shields.io/badge/❄️_VERSION-1.2.0-4A9EFF?style=for-the-badge&labelColor=0a1929&logo=semanticrelease&logoColor=white" height="38"/>
   </a>
   <a href="https://github.com/lolsosunchik/Invoker-Macro-Pro/releases">
     <img src="https://img.shields.io/badge/🖥_OS-Windows_10%2F11-1E3A5F?style=for-the-badge&labelColor=0a1929&logo=windows&logoColor=white" height="38"/>
@@ -89,7 +89,7 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snowflake.png" width="42"/>
-  <span style="background: linear-gradient(90deg, #4A9EFF, #00E5FF, #E0F0FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 42px; font-weight: 900;">ЧТО НОВОГО В v1.1.0</span>
+  <span style="background: linear-gradient(90deg, #4A9EFF, #00E5FF, #E0F0FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 42px; font-weight: 900;">ЧТО НОВОГО В v1.2.0</span>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snowflake.png" width="42"/>
 </h1>
 
@@ -118,11 +118,11 @@
 
 <br><br>
 
-<h2 style="color: #4A9EFF; margin: 0;">📡 GSI LIVE</h2>
-<h3 style="color: #00E5FF; margin: 5px 0 15px 0;">ДАННЫЕ ИЗ DOTA 2</h3>
+<h2 style="color: #4A9EFF; margin: 0;">📊 ДАШБОРД</h2>
+<h3 style="color: #00E5FF; margin: 5px 0 15px 0;">СТАТИСТИКА</h3>
 
 <p style="color: #E0F0FF;">
-Герой, HP/MP, мана, золото, KDA, таймер, враги, способности — <b>всё в реальном времени</b>.
+Сессии, матчи, <b>winrate</b>, активность за 14 дней, рекорды GPM/XPM и winrate по комбо. Экспорт в CSV.
 </p>
 
 </div>
@@ -147,11 +147,11 @@
 
 <br><br>
 
-<h2 style="color: #00E5FF; margin: 0;">🧠 УМНЫЕ</h2>
-<h3 style="color: #4A9EFF; margin: 5px 0 15px 0;">КАСТЫ</h3>
+<h2 style="color: #00E5FF; margin: 0;">⏱ ТРЕКЕР</h2>
+<h3 style="color: #4A9EFF; margin: 5px 0 15px 0;">УЛЬТОВ И ПРЕДМЕТОВ</h3>
 
 <p style="color: #E0F0FF;">
-Проверка <b>смерти, стана, silence, hex, маны и КД</b> перед кастом. Пропуск невозможных шагов.
+Клик по врагу запускает таймер ульта. В спектаторе GSI отдаёт <b>КД ультов и BKB/Hex/Orchid</b>.
 </p>
 
 </div>
@@ -176,11 +176,11 @@
 
 <br><br>
 
-<h2 style="color: #E0F0FF; margin: 0;">🖥 НОВЫЙ</h2>
-<h3 style="color: #4A9EFF; margin: 5px 0 15px 0;">LIVE-UI</h3>
+<h2 style="color: #E0F0FF; margin: 0;">🪟 ОВЕРЛЕЙ</h2>
+<h3 style="color: #4A9EFF; margin: 5px 0 15px 0;">УДОБСТВО</h3>
 
 <p style="color: #E0F0FF;">
-Карточка героя, HP/MP-бары, <b>кольца КД 10 способностей</b>, панель врагов, мана-калькулятор, дека комбо.
+<b>Клики сквозь</b> по F8, масштаб 70–200%, компактный режим, сохранение позиции и размера, отключение блоков.
 </p>
 
 </div>
@@ -209,11 +209,11 @@
 
 <br><br>
 
-<h2 style="color: #4A9EFF; margin: 0;">🪟 НОВЫЙ</h2>
-<h3 style="color: #00E5FF; margin: 5px 0 15px 0;">ОВЕРЛЕЙ</h3>
+<h2 style="color: #4A9EFF; margin: 0;">🛡 ОТЧЁТЫ</h2>
+<h3 style="color: #00E5FF; margin: 5px 0 15px 0;">О СБОЯХ</h3>
 
 <p style="color: #E0F0FF;">
-Живой <b>GSI HUD</b> с сегментированными барами, кольцами КД, врагами. Позиция, прозрачность, бренд IMP.
+Opt-in отправка, локальное сохранение в <code>crashes</code>, GitHub Issue с диагностикой <b>без ключей и SteamID</b>.
 </p>
 
 </div>
@@ -296,11 +296,11 @@
 </h3>
 
 <p align="center" style="color: #E0F0FF;">
-<b style="color: #4A9EFF;">✨ Новое:</b> GSI Live (fallback 3000→3003, /health) · Умные касты · Раскладка сфер (quas/wex/exort + invoke_key) · Новый LIVE-UI · Новый оверлей · Автообновление · Шаринг комбо IMP1-… · Конфиг в <code>%LOCALAPPDATA%\IMP\invoker_config.json</code> с миграцией и debounced autosave
+<b style="color: #4A9EFF;">✨ Новое в 1.2.0:</b> Дашборд статистики (сессии, матчи, winrate, 14 дней, рекорды) · Экспорт CSV · Трекер ультов и ключевых предметов врагов · GSI-кулдауны в спектаторе · Оверлей: клики сквозь (F8), масштаб 70–200%, компактный режим, сохранение размера, отключение блоков · Opt-in отчёты о сбоях
 </p>
 
 <p align="center" style="color: #E0F0FF;">
-<b style="color: #00E5FF;">🐞 Фиксы:</b> Уникальные id комбо · Регистрация хоткея при импорте · Упаковка HP/MP-текста в оверлее · Дубли/битые ссылки в UI · Стабильный Esc/Enter со слотами сфер · UTF-8-safe вывод · Корректная миграция конфига
+<b style="color: #00E5FF;">🐞 Фиксы:</b> Стабильный подсчёт матчей по GSI · Не сбрасывается сессия при выходе · Клики по оверлею не мешают игре · Корректные таймеры при смене матча · Мелкие правки UI
 </p>
 
 <p align="center" style="color: #E0F0FF;">
@@ -891,7 +891,7 @@
 ║                                                                  ║
 ║   <b>1️⃣</b>   ❄️  Зайди в Discord  →  получи ключ                    ║
 ║                          ↓                                       ║
-║   <b>2️⃣</b>   📥  Скачай IMPv1.1.0.exe со страницы релизов            ║
+║   <b>2️⃣</b>   📥  Скачай IMPv1.2.0.exe со страницы релизов            ║
 ║                          ↓                                       ║
 ║   <b>3️⃣</b>   ⚡  Запусти .exe  →  введи ключ                          ║
 ║                          ↓                                       ║
@@ -971,7 +971,7 @@
 <br>
 
 <pre align="center" style="color: #E0F0FF;">
-1. 📥  Скачай IMPv1.1.0.exe (или .rar)
+1. 📥  Скачай IMPv1.2.0.exe (или .rar)
               ↓
 2. 📂  Запусти .exe (распакуй .rar, если качал его)
               ↓
@@ -1425,7 +1425,7 @@
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="28"/>
-  <span style="color: #4ADE80;">ГОТОВО В v1.1.0</span>
+  <span style="color: #4ADE80;">ГОТОВО В v1.2.0</span>
 </h3>
 
 <ul style="color: #E0F0FF;">
@@ -1513,7 +1513,7 @@
 
 <br><br>
 
-<b style="color: #E0F0FF;">IMPv1.1.0.exe / .rar</b>
+<b style="color: #E0F0FF;">IMPv1.2.0.exe / .rar</b>
 
 </td>
 <td align="center" width="33%" style="padding: 25px; background: linear-gradient(180deg, #1e3a5f 0%, #0a1929 100%); border-radius: 20px; border: 3px solid #5865F2; box-shadow: 0 0 30px rgba(88, 101, 242, 0.5);">

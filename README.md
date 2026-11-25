@@ -971,9 +971,9 @@ Opt-in отправка, локальное сохранение в <code>crashe
 <br>
 
 <pre align="center" style="color: #E0F0FF;">
-1. 📥  Скачай IMPv1.2.0.exe (или .rar)
+1. 📥  Скачай IMPv1.2.0.exe (или .zip)
               ↓
-2. 📂  Запусти .exe (распакуй .rar, если качал его)
+2. 📂  Запусти .exe (распакуй .zip, если качал его)
               ↓
 3. 🔑  Получи ключ в Discord и введи
               ↓
@@ -1513,7 +1513,7 @@ Opt-in отправка, локальное сохранение в <code>crashe
 
 <br><br>
 
-<b style="color: #E0F0FF;">IMPv1.2.0.exe / .rar</b>
+<b style="color: #E0F0FF;">IMPv1.2.0.exe / .zip</b>
 
 </td>
 <td align="center" width="33%" style="padding: 25px; background: linear-gradient(180deg, #1e3a5f 0%, #0a1929 100%); border-radius: 20px; border: 3px solid #5865F2; box-shadow: 0 0 30px rgba(88, 101, 242, 0.5);">

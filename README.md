@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://github.com/lolsosunchik/Invoker-Macro-Pro/releases">
-    <img src="https://img.shields.io/badge/❄️_VERSION-1.2.0-4A9EFF?style=for-the-badge&labelColor=0a1929&logo=semanticrelease&logoColor=white" height="38"/>
+    <img src="https://img.shields.io/badge/❄️_VERSION-1.3.0-4A9EFF?style=for-the-badge&labelColor=0a1929&logo=semanticrelease&logoColor=white" height="38"/>
   </a>
   <a href="https://github.com/lolsosunchik/Invoker-Macro-Pro/releases">
     <img src="https://img.shields.io/badge/🖥_OS-Windows_10%2F11-1E3A5F?style=for-the-badge&labelColor=0a1929&logo=windows&logoColor=white" height="38"/>
@@ -89,13 +89,113 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snowflake.png" width="42"/>
-  <span style="background: linear-gradient(90deg, #4A9EFF, #00E5FF, #E0F0FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 42px; font-weight: 900;">ЧТО НОВОГО В v1.2.0</span>
+  <span style="background: linear-gradient(90deg, #4A9EFF, #00E5FF, #E0F0FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 42px; font-weight: 900;">ЧТО НОВОГО В v1.3.0</span>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snowflake.png" width="42"/>
 </h1>
 
 <br>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🌍_RU_%2B_EN-ПОЛНАЯ_ЛОКАЛИЗАЦИЯ-4ADE80?style=for-the-badge&labelColor=0a1929" height="32"/>
+</p>
+
+<br>
+
 <!-- ═══ 3D-КАРТОЧКИ ФИЧ ═══ -->
+
+<table align="center" width="100%" style="border-collapse: separate; border-spacing: 15px;">
+<tr>
+<td width="33%" valign="top">
+
+<div style="
+  background: linear-gradient(135deg, #0a1929 0%, #1e3a5f 50%, #0a1929 100%);
+  border: 2px solid #4ADE80;
+  border-radius: 20px;
+  padding: 25px;
+  text-align: center;
+  box-shadow: 
+    0 0 20px rgba(74, 222, 128, 0.4),
+    0 10px 40px rgba(0, 0, 0, 0.5),
+    inset 0 1px 0 rgba(255, 255, 255, 0.1);
+  transform: perspective(1000px) rotateX(2deg);
+">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bell.png" width="90"/>
+
+<br><br>
+
+<h2 style="color: #4ADE80; margin: 0;">🔊 ЗВУКИ</h2>
+<h3 style="color: #00E5FF; margin: 5px 0 15px 0;">СОБЫТИЯ</h3>
+
+<p style="color: #E0F0FF;">
+Сигналы на <b>таймер, ульт врага, свой предмет и комбо</b>. Громкость, отдельные переключатели и свои WAV-файлы.
+</p>
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<div style="
+  background: linear-gradient(135deg, #0a1929 0%, #1e3a5f 50%, #0a1929 100%);
+  border: 2px solid #00E5FF;
+  border-radius: 20px;
+  padding: 25px;
+  text-align: center;
+  box-shadow: 
+    0 0 20px rgba(0, 229, 255, 0.4),
+    0 10px 40px rgba(0, 0, 0, 0.5),
+    inset 0 1px 0 rgba(255, 255, 255, 0.1);
+  transform: perspective(1000px) rotateX(2deg);
+">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Backpack.png" width="90"/>
+
+<br><br>
+
+<h2 style="color: #00E5FF; margin: 0;">🎒 СВОИ</h2>
+<h3 style="color: #4A9EFF; margin: 5px 0 15px 0;">ПРЕДМЕТЫ</h3>
+
+<p style="color: #E0F0FF;">
+BKB, Blink, Hex, Refresher — <b>реальные кулдауны из GSI</b> в трекере и оверлее. Без ручного ввода.
+</p>
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<div style="
+  background: linear-gradient(135deg, #0a1929 0%, #1e3a5f 50%, #0a1929 100%);
+  border: 2px solid #4A9EFF;
+  border-radius: 20px;
+  padding: 25px;
+  text-align: center;
+  box-shadow: 
+    0 0 20px rgba(74, 158, 255, 0.4),
+    0 10px 40px rgba(0, 0, 0, 0.5),
+    inset 0 1px 0 rgba(255, 255, 255, 0.1);
+  transform: perspective(1000px) rotateX(2deg);
+">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Anticlockwise%20Arrows%20Button.png" width="90"/>
+
+<br><br>
+
+<h2 style="color: #4A9EFF; margin: 0;">🔄 ТАБЛИЦЫ</h2>
+<h3 style="color: #00E5FF; margin: 5px 0 15px 0;">КУЛДАУНОВ</h3>
+
+<p style="color: #E0F0FF;">
+Кулдауны ультов и ключевых предметов <b>тянутся с GitHub</b> и кэшируются. Патч Dota — без нового релиза.
+</p>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <table align="center" width="100%" style="border-collapse: separate; border-spacing: 15px;">
 <tr>
@@ -296,7 +396,11 @@ Opt-in отправка, локальное сохранение в <code>crashe
 </h3>
 
 <p align="center" style="color: #E0F0FF;">
-<b style="color: #4A9EFF;">✨ Новое в 1.2.0:</b> Дашборд статистики (сессии, матчи, winrate, 14 дней, рекорды) · Экспорт CSV · Трекер ультов и ключевых предметов врагов · GSI-кулдауны в спектаторе · Оверлей: клики сквозь (F8), масштаб 70–200%, компактный режим, сохранение размера, отключение блоков · Opt-in отчёты о сбоях
+<b style="color: #4ADE80;">✨ Новое в 1.3.0:</b> Звуковые события (таймер, ульт врага, свой предмет, комбо) · Кулдауны своих предметов из GSI · Полный перевод новых функций на английский · Обновляемые с GitHub таблицы кулдаунов · Свои WAV-сигналы
+</p>
+
+<p align="center" style="color: #E0F0FF;">
+<b style="color: #4A9EFF;">⚡ Из 1.2.0:</b> Дашборд статистики (сессии, матчи, winrate, 14 дней, рекорды) · Экспорт CSV · Трекер ультов и ключевых предметов врагов · GSI-кулдауны в спектаторе · Оверлей: клики сквозь (F8), масштаб 70–200%, компактный режим, сохранение размера, отключение блоков · Opt-in отчёты о сбоях
 </p>
 
 <p align="center" style="color: #E0F0FF;">
@@ -891,7 +995,7 @@ Opt-in отправка, локальное сохранение в <code>crashe
 ║                                                                  ║
 ║   <b>1️⃣</b>   ❄️  Зайди в Discord  →  получи ключ                    ║
 ║                          ↓                                       ║
-║   <b>2️⃣</b>   📥  Скачай IMPv1.2.0.exe со страницы релизов            ║
+║   <b>2️⃣</b>   📥  Скачай IMPv1.3.0.exe со страницы релизов            ║
 ║                          ↓                                       ║
 ║   <b>3️⃣</b>   ⚡  Запусти .exe  →  введи ключ                          ║
 ║                          ↓                                       ║
@@ -971,7 +1075,7 @@ Opt-in отправка, локальное сохранение в <code>crashe
 <br>
 
 <pre align="center" style="color: #E0F0FF;">
-1. 📥  Скачай IMPv1.2.0.exe (или .zip)
+1. 📥  Скачай IMPv1.3.0.exe (или .zip)
               ↓
 2. 📂  Запусти .exe (распакуй .zip, если качал его)
               ↓
@@ -1425,7 +1529,7 @@ Opt-in отправка, локальное сохранение в <code>crashe
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="28"/>
-  <span style="color: #4ADE80;">ГОТОВО В v1.2.0</span>
+  <span style="color: #4ADE80;">ГОТОВО В v1.3.0</span>
 </h3>
 
 <ul style="color: #E0F0FF;">
@@ -1434,6 +1538,10 @@ Opt-in отправка, локальное сохранение в <code>crashe
 <li>✅ Раскладка сфер + invoke_key</li>
 <li>✅ Новый LIVE-UI</li>
 <li>✅ Новый GSI-оверлей</li>
+<li>✅ Звуковые события</li>
+<li>✅ Кулдауны своих предметов (GSI)</li>
+<li>✅ Английская локализация</li>
+<li>✅ Обновляемые таблицы КД</li>
 <li>✅ Кольца КД 10 способностей</li>
 <li>✅ Автообновление</li>
 <li>✅ Шаринг комбо (IMP1-…)</li>
@@ -1513,7 +1621,7 @@ Opt-in отправка, локальное сохранение в <code>crashe
 
 <br><br>
 
-<b style="color: #E0F0FF;">IMPv1.2.0.exe / .zip</b>
+<b style="color: #E0F0FF;">IMPv1.3.0.exe / .zip</b>
 
 </td>
 <td align="center" width="33%" style="padding: 25px; background: linear-gradient(180deg, #1e3a5f 0%, #0a1929 100%); border-radius: 20px; border: 3px solid #5865F2; box-shadow: 0 0 30px rgba(88, 101, 242, 0.5);">
